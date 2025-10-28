@@ -1,0 +1,93 @@
+runtime:
+  python_version: "3.10"
+
+inputs:
+  pdf_path: "data/raw/sample_ddr5.pdf"
+  cache_enabled: true
+
+extraction:
+  text:
+    enabled: true
+    min_paragraph_length: 20
+  tables:
+    enabled: true
+    engine: "camelot"
+    flavor: "stream"  # 또는 lattice
+  figures:
+    enabled: false
+    snapshot_dpi: 200
+
+chunking:
+  max_characters: 2000
+  overlap_characters: 200
+
+llm:
+  provider: "openai"
+  model: "gpt-4o-mini"
+  temperature: 0.2
+  max_tokens: 1024
+  enable_summary: true
+  redact_sensitive_terms: true
+  api_key_env: "OPENAI_API_KEY"
+  api_base: null
+  system_prompt: >
+    You are an expert verification engineer. Summarize DDR5 specification text into
+    concise requirement units for DV coverage in JSON form.
+  user_prompt_template: >
+    Summarize the following DDR5 specification excerpt into a JSON object with keys
+    "title", "description", "source_pages", and "confidence". Focus on verification
+    intent and keep the description under six sentences.
+    Excerpt (page {start_page}):
+    {chunk_text}
+
+catalog:
+  output_path: "artifacts/catalog.yaml"
+  schema_version: "0.1.0"
+
+review:
+  output_path: "artifacts/review.yaml"
+  include_traceability: true
+  schema_version: "review-0.1.0"
+
+commands:
+  compatibility_csv_path: "artifacts/compatibility_matrix.csv"
+  patterns:
+    - "\\bCMD_[A-Z0-9]+\\b"
+    - "\\bMR[RW]\\b"
+    - "\\bMPC\\b"
+    - "\\bACT\\b"
+    - "\\bPRE\\b"
+    - "\\bREF(?:SB|PB|AB|\\w*)\\b"
+    - "\\b(?:READ|WRITE|RD|WR)\\b"
+    - "\\bNOP\\b"
+    - "\\bPDE\\b"
+    - "\\bPDX\\b"
+    - "\\bSRE\\b"
+    - "\\bSRX\\b"
+    - "\\bRFM\\b"
+    - "\\bZQ(?:CL|CS|RESET|CAL)?\\b"
+  max_per_requirement: 10
+  sequence_positive_keywords:
+    - "->"
+    - "→"
+    - "⇒"
+    - "then"
+    - "after"
+    - "followed by"
+  sequence_negative_keywords:
+    - "must not follow"
+    - "cannot follow"
+    - "not followed by"
+    - "should not follow"
+  compatibility_default: "UNKNOWN"
+  compatibility_description: "Auto-inferred command transitions"
+  target_requirement_index: 0
+
+logging:
+  level: "INFO"
+  base_dir: "logs"
+  store_intermediate_json: true
+  store_stage_snapshots: true
+  redact_fields:
+    - "llm_prompt"
+    - "llm_response"

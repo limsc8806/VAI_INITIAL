@@ -1,0 +1,207 @@
+{
+  "commands": [
+    "ACT",
+    "MPC",
+    "MRR",
+    "MRW",
+    "NOP",
+    "PDE",
+    "PDX",
+    "PRE",
+    "RD",
+    "READ"
+  ],
+  "mapping": {
+    "MRR": {
+      "WRITE": "Y",
+      "MRW": "Y",
+      "READ": "Y",
+      "MPC": "Y",
+      "WR": "Y",
+      "SRE": "Y",
+      "NOP": "Y",
+      "REF": "Y",
+      "RD": "Y",
+      "ACT": "Y",
+      "PDE": "Y",
+      "PRE": "Y"
+    },
+    "WRITE": {
+      "MRW": "Y",
+      "READ": "Y",
+      "PRE": "Y",
+      "WR": "Y",
+      "ACT": "Y",
+      "RD": "Y",
+      "REF": "Y"
+    },
+    "MRW": {
+      "MRR": "Y",
+      "RD": "Y",
+      "MPC": "Y",
+      "ZQ": "Y",
+      "NOP": "Y",
+      "WR": "Y",
+      "PDE": "Y",
+      "SRE": "Y",
+      "REF": "Y",
+      "REFab": "Y",
+      "REFsb": "Y",
+      "READ": "Y",
+      "WRITE": "Y",
+      "ACT": "Y"
+    },
+    "REFab": {
+      "REFsb": "Y",
+      "REF": "Y",
+      "PDE": "Y",
+      "MRW": "Y",
+      "SRE": "Y"
+    },
+    "REFsb": {
+      "MPC": "Y",
+      "REFab": "Y",
+      "NOP": "Y",
+      "MRR": "Y",
+      "MRW": "Y",
+      "REF": "Y",
+      "SRE": "Y",
+      "PRE": "Y",
+      "WR": "Y",
+      "RFM": "Y"
+    },
+    "MPC": {
+      "ZQ": "Y",
+      "REF": "Y",
+      "NOP": "Y",
+      "MRW": "Y",
+      "ZQCAL": "Y",
+      "MRR": "Y",
+      "WR": "Y",
+      "PDX": "Y",
+      "SRE": "Y",
+      "READ": "Y",
+      "ACT": "Y"
+    },
+    "ZQ": {
+      "MRW": "Y",
+      "MPC": "Y",
+      "REFab": "Y"
+    },
+    "RD": {
+      "WR": "Y",
+      "REFab": "Y",
+      "MRR": "Y",
+      "READ": "Y",
+      "MRW": "Y",
+      "ACT": "Y"
+    },
+    "NOP": {
+      "ZQCAL": "Y",
+      "MRR": "Y",
+      "MPC": "Y",
+      "PDX": "Y",
+      "SRE": "Y",
+      "ACT": "Y",
+      "SRX": "Y",
+      "PDE": "Y",
+      "MRW": "Y",
+      "REFab": "Y",
+      "REFsb": "Y"
+    },
+    "ZQCAL": {
+      "NOP": "Y",
+      "MPC": "Y",
+      "MRW": "Y"
+    },
+    "READ": {
+      "MRR": "Y",
+      "WRITE": "Y",
+      "PRE": "Y",
+      "ACT": "Y",
+      "MPC": "Y"
+    },
+    "ACT": {
+      "WR": "Y",
+      "RFM": "Y",
+      "REF": "Y",
+      "MRW": "Y",
+      "PRE": "Y",
+      "MPC": "Y",
+      "RD": "Y",
+      "REFab": "Y",
+      "MRR": "Y",
+      "WRITE": "Y",
+      "READ": "Y"
+    },
+    "WR": {
+      "PRE": "Y",
+      "RD": "Y",
+      "MRW": "Y",
+      "WRITE": "Y",
+      "ZQ": "Y",
+      "PDX": "Y",
+      "REFab": "Y",
+      "MRR": "Y",
+      "REF": "Y",
+      "ACT": "Y"
+    },
+    "RFM": {
+      "ACT": "Y",
+      "SRE": "Y",
+      "REF": "Y",
+      "REFab": "Y"
+    },
+    "SRE": {
+      "PDE": "Y",
+      "NOP": "Y",
+      "RD": "Y",
+      "ACT": "Y",
+      "MRW": "Y",
+      "SRX": "Y",
+      "MPC": "Y",
+      "REFsb": "Y"
+    },
+    "PDE": {
+      "MPC": "Y",
+      "ACT": "Y",
+      "PDX": "Y",
+      "MRW": "Y",
+      "SRE": "Y"
+    },
+    "PDX": {
+      "WR": "Y",
+      "PRE": "Y",
+      "PDE": "Y",
+      "MRR": "Y",
+      "NOP": "Y"
+    },
+    "REF": {
+      "SRE": "Y",
+      "RFM": "Y",
+      "REFab": "Y",
+      "REFsb": "Y",
+      "MRW": "Y",
+      "ACT": "Y",
+      "PRE": "Y",
+      "READ": "Y"
+    },
+    "PRE": {
+      "READ": "Y",
+      "ACT": "Y",
+      "REF": "Y",
+      "MRR": "Y",
+      "MRW": "Y",
+      "MPC": "Y",
+      "WR": "Y",
+      "WRITE": "Y"
+    },
+    "SRX": {
+      "SRE": "Y",
+      "NOP": "Y",
+      "REFsb": "Y"
+    }
+  },
+  "default": "UNKNOWN",
+  "csv_path": "artifacts\\compatibility_matrix.csv"
+}

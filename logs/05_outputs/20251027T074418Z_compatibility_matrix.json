@@ -1,0 +1,10 @@
+{
+  "commands": [],
+  "mapping": {
+    "MRS": {
+      "MRR": "Y"
+    }
+  },
+  "default": "UNKNOWN",
+  "csv_path": "artifacts\\compatibility_matrix.csv"
+}

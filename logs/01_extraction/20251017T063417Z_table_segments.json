@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "page": 2,
+      "content": [
+        [
+          "Param",
+          "Value"
+        ],
+        [
+          "Speed",
+          "6400 MT/s"
+        ]
+      ],
+      "source": "table"
+    }
+  ]
+}

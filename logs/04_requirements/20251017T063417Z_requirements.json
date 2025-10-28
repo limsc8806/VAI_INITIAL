@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "REQ-0001",
+      "title": "DDR5 소개와 개요...",
+      "description": "DDR5 소개와 개요...\nParam | Value\nSpeed | 6400 MT/s",
+      "source_pages": [
+        1
+      ],
+      "evidence": {
+        "start_page": 1,
+        "kinds": [
+          "text",
+          "table"
+        ]
+      },
+      "confidence": 0.5
+    }
+  ]
+}

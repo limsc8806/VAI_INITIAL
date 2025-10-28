@@ -1,0 +1,12 @@
+{
+  "commands": [
+    "MRR",
+    "MRS"
+  ],
+  "mapping": {
+    "MRS": {
+      "MRR": "Y"
+    }
+  },
+  "default": "UNKNOWN"
+}

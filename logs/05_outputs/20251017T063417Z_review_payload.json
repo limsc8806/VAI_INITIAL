@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "schema_version": "review-0.1.0",
+    "generated_at": "2025-10-17T06:34:17Z",
+    "run_id": "run_20251017T063417Z",
+    "source_pdf": "C:\\Users\\admin\\VAI_PLAN\\data\\raw\\sample_ddr5.pdf"
+  },
+  "summary": {
+    "total_requirements": 1
+  },
+  "requirements": [
+    {
+      "id": "REQ-0001",
+      "title": "DDR5 소개와 개요...",
+      "description": "DDR5 소개와 개요...\nParam | Value\nSpeed | 6400 MT/s",
+      "confidence": 0.5,
+      "source_pages": [
+        1
+      ],
+      "evidence": {
+        "start_page": 1,
+        "kinds": [
+          "text",
+          "table"
+        ]
+      }
+    }
+  ]
+}
