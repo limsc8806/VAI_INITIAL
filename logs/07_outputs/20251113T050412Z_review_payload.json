@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "schema_version": "review-0.1.0",
+    "generated_at": "2025-11-13T05:04:12Z",
+    "run_id": "run_20251113T050406Z",
+    "source_pdf": "C:\\Users\\admin\\VAI_PLAN\\data\\raw\\test_img_table.pdf"
+  },
+  "summary": {
+    "total_requirements": 7
+  },
+  "requirements": [
+    {
+      "id": "REQ-0001",
+      "title": "JEDEC Standard No. 79-5",
+      "description": "JEDEC Standard No. 79-5\nPage 8\nLIGHT GREY - All Light Grey text is defined as something that should be considered TBD. The content may be accurate or \nthe same as previous technologies but has not yet been reviewed or determined to be the working assumption.\n3\nFunctional Description\n3.1\nSimplified State Diagram\nWR+AP,\nWRP+AP\nWR+AP,\nWRP+AP\nPREab, PREsb, PREpb\nPREab, PREsb, PREpb\nVrefC\nf A\nTraining\nVrefCA\nCS\nTraining\nMCP+CSTM Enter\nZQ\nCalibra-\nƟon Idle\nMCP+PDA Enum Enter\nM\nWrite\nLeveling\nMRW+WL In",
+      "confidence": 0.5,
+      "source_pages": [
+        1
+      ],
+      "evidence": {
+        "start_page": 1,
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0002",
+      "title": "e",
+      "description": "e\nWRPA\nL\nH\nL\nL\nH\nL\nH\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 11,15,18,19,\n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nAP=L\nH\nV\nCID3\nRFU\nRFU\nL\nH\nL\nL\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nMode Register Write\nMRW\nL\nH\nL\nH\nL\nL\nMRA0 MRA1 MRA2 MRA3 MRA4 MRA5 MRA6 MRA7\nV/\nDDPID 8,11,13,20, \n22,23,24\nH\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nOP7\nV\nV\nCW\nV\nV\nV\nMode Register Read\nMRR\nL\nH\nL\nH\nL\nH\nMRA0 MRA1 MRA2 MRA3 MRA4 MRA5 MRA6 MRA7\nV/\nDDPID 8,13,20,22, \n23,24,25,26\nH\nL\nL\nV\nV\nV\nV\nV\nV\nV\nV\nCW\nV\nV\nV\nWrite",
+      "confidence": 0.5,
+      "source_pages": [
+        null
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0003",
+      "title": "l",
+      "description": "l\nPREab\nL\nH\nH\nL\nH\nL\nCID3\nV\nV\nV\nV\nL\nCID0\nCID1\nCID2/\nDDPID\n5,20,21,23, \n24\nPrecharge Same Bank\nPREsb\nL\nH\nH\nL\nH\nL\nCID3\nBA0\nBA1\nV\nV\nH\nCID0\nCID1\nCID2/\nDDPID\n6,20,21,23, \n24\nJEDEC Standard No. 79-5\nPage 104\nPrecharge \nPREpb\nL\nH\nH\nL\nH\nH\nCID3\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID\n7,20,21,23, \n24\nRFU\nRFU\nL\nH\nH\nH\nL\nL\nV\nV\nV\nV\nV\nV\nV\nV\nV\nSelf Refresh Entry\nSRE\nL\nH\nH\nH\nL\nH\nV\nV\nV\nV\nH\nL\nV\nV\nV\n9\nSelf Refresh Entry w/\nFrequency Change\nSREF\nL\nH\nH\nH\nL\nH\nV\nV\nV\nV\nL\nL\nV\nV\nV\n9\nPower Down Entry\nPDE\nL\nH\nH\nH\nL\nH\nV\nV\nV",
+      "confidence": 0.5,
+      "source_pages": [
+        null
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0004",
+      "title": "MPC",
+      "description": "MPC\nL\nH\nH\nH\nH\nL\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nOP7\nV/\nDDPID 20,22,23,24\nNOP\nNOP\nL\nH\nH\nH\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV\nPower Down Exit\nPDX\nL\nH\nH\nH\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV\nDeselect\nDES\nH\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nNOTE 1\nV means H or L (a defined logic level). X means don't care in which case the signal may be floated.\nNOTE 2\nBank group addresses BG[2:0] and Bank addresses BA[1:0] determine which bank is to be operated upon in a specific bank group.\nNOTE 3\nThe Refresh All and Refresh Management All commands a",
+      "confidence": 0.5,
+      "source_pages": [
+        null
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0005",
+      "title": "terval Rate indicator bit is ",
+      "description": "terval Rate indicator bit is \nenabled (MR4:OP[3]=1), the host will set CA8=H for REF commands issued at the 1x refresh interval rate and CA8=L for REF commands issued at the \n2x refresh interval rate.\nTable 241 — Command Truth Table (Cont’d)\nFunction \nAbbrevia-\ntion\nCS_n\nNOTES\nCA0\nCA1\nCA2\nCA3\nCA4\nCA5\nCA6\nCA7\nCA8\nCA9\nCA10\nCA11\nCA12\nCA13\nJEDEC Standard No. 79-5\nPage 114\nThe Read Operation causes the DRAM to retrieve and output data stored in its array. The Read Operation \nis initiated by the Read ",
+      "confidence": 0.5,
+      "source_pages": [
+        null
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0006",
+      "title": "mble.",
+      "description": "mble.\nFigure 28 — Read Burst Operation (BC8)\nt0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 ta+7\nta+8\nta+9\nta+10\ntb+5\ntb+7\ntb+10 tb+11\nD0\nD1\nD2\nD14 D15\nD13\nta+5\ntb+12\ntb\ntb+1\ntb+2\ntb+3\ntb+8\ntb+9\ntb+4\ntb+6\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nt0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 ta+7\nta+8\nta+9\nta+10\nta+16\ntb+1\ntb+4\ntb+5\nta+5\ntb+6\nta+11 ta+12 ta+13 ta+14\ntb+2\ntb+3\nta+15\ntb\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nD",
+      "confidence": 0.5,
+      "source_pages": [
+        null
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0007",
+      "title": "the precharge begins.",
+      "description": "the precharge begins.\n2\nThe minimum RAS cycle time (tRC.MIN) from the previous bank activation has been satisfied.\nExamples of Read commands followed by Precharge are shown in Figure 30 and Figure 31.\nt0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 tb\ntb+1\ntb+2\ntb+3\ntd+2\nte\nte+3\nte+4\nta+5\nte+5\ntc\ntc+1\ntc+2\ntd\nte+1\nte+2\ntd+1\ntd+3\ntc+3\nREAD-0\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES DES\nDES\nDES\nDES\nDES\nCMD\nD0\nD1\nD2 D11 D12 D13 D14 D15\ntRPRE\ntRPST\ntRPRE\ntRPST\nR",
+      "confidence": 0.5,
+      "source_pages": [
+        null
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    }
+  ],
+  "chunks_overview": {
+    "count": 254,
+    "sample": [
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      }
+    ]
+  }
+}

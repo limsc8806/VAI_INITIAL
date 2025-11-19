@@ -1,0 +1,1030 @@
+{
+  "items": [
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 1,
+        "bbox": [
+          72.49130249023438,
+          710.7763061523438,
+          225.66650390625,
+          699.6403198242188
+        ]
+      },
+      "payload": {
+        "text": "3 Functional Description"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 1,
+        "bbox": [
+          72.49130249023438,
+          680.88427734375,
+          239.13047790527344,
+          669.50830078125
+        ]
+      },
+      "payload": {
+        "text": "3.1 Simplified State Diagram"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 2,
+        "bbox": [
+          72.14330291748047,
+          710.8963012695312,
+          387.66168212890625,
+          699.6403198242188
+        ]
+      },
+      "payload": {
+        "text": "4 DDR5 SDRAM Command Description and Operation"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 2,
+        "bbox": [
+          72.14330291748047,
+          680.88427734375,
+          225.28248596191406,
+          671.88427734375
+        ]
+      },
+      "payload": {
+        "text": "4.1 Command Truth Table"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 2,
+        "bbox": [
+          72.53730773925781,
+          664.3895874023438,
+          312.0583190917969,
+          655.1995849609375
+        ]
+      },
+      "payload": {
+        "text": "Notes 1, 2 & 14 apply to the entire Command truth table"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 2,
+        "bbox": [
+          72.53730773925781,
+          652.3895874023438,
+          538.6292724609375,
+          621.2196044921875
+        ]
+      },
+      "payload": {
+        "text": "To improve command decode time, the table has been optimized to orient all 1-cycle commands together and all 2-cycle commands together; allowing CA1 to be used to identify the difference between a 1-cycle and a 2-cycle command."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 2,
+        "bbox": [
+          72.0643081665039,
+          616.4271850585938,
+          512.9597778320312,
+          580.5011596679688
+        ]
+      },
+      "payload": {
+        "text": "[BG=Bank Group Address, BA=Bank Address, R=Row Address, C=Column Address, MRA=Mode Register Address, OP=Op Code, CID=Chip ID, DDPID=Dual Die Package ID, CW=Control Word, X=Don't Care, V=Valid]."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 2,
+        "bbox": [
+          220.21559143066406,
+          564.240478515625,
+          388.951171875,
+          556.5294799804688
+        ]
+      },
+      "payload": {
+        "text": "Table 241 — Command Truth Table"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          72.2573013305664,
+          756.7395629882812,
+          188.74330139160156,
+          735.259521484375
+        ]
+      },
+      "payload": {
+        "text": "JEDEC Standard No. 79-5 Page 104"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          200.0777130126953,
+          720.239990234375,
+          411.4757080078125,
+          710.4939575195312
+        ]
+      },
+      "payload": {
+        "text": "Table 241 — Command Truth Table (Cont’d)"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          554.2783813476562,
+          382.6690673828125,
+          547.8453979492188
+        ]
+      },
+      "payload": {
+        "text": "NOTE 1 V means H or L (a defined logic level). X means don't care in which case the signal may be floated."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          546.2774047851562,
+          470.025634765625,
+          539.8444213867188
+        ]
+      },
+      "payload": {
+        "text": "NOTE 2 Bank group addresses BG[2:0] and Bank addresses BA[1:0] determine which bank is to be operated upon in a specific bank group."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          538.2763671875,
+          510.89520263671875,
+          531.8433837890625
+        ]
+      },
+      "payload": {
+        "text": "NOTE 3 The Refresh All and Refresh Management All commands are applied to all banks in all bank groups. CA6 and CA7 are required to be valid (\"V\")"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          530.275390625,
+          529.3618774414062,
+          515.8413696289062
+        ]
+      },
+      "payload": {
+        "text": "NOTE 4 The Refresh Same Bank and Refresh Management Same Bank commands refresh the same bank in all bank group bits. The bank bits, BA0 and BA1 on CA6 and CA7, respectively, specify the bank within each bank group."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          514.2733764648438,
+          308.51177978515625,
+          507.84039306640625
+        ]
+      },
+      "payload": {
+        "text": "NOTE 5 The Precharge All command applies to all open banks in all bank groups."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          506.27239990234375,
+          488.02484130859375,
+          499.8393859863281
+        ]
+      },
+      "payload": {
+        "text": "NOTE 6 The Precharge Same Bank command applies to the same bank in all bank groups. The bank bits specify the bank within each bank group."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          498.2713928222656,
+          380.98907470703125,
+          491.83837890625
+        ]
+      },
+      "payload": {
+        "text": "NOTE 7 The Precharge command applies to a single bank as specified by bank address and bank group bits."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          490.2704162597656,
+          462.10577392578125,
+          483.83740234375
+        ]
+      },
+      "payload": {
+        "text": "NOTE 8 CS_n=LOW during the 2nd cycle of a two cycle command controls ODT in non-target ranks for WR, RD and MRR commands."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          482.2694091796875,
+          265.7726135253906,
+          475.85040283203125
+        ]
+      },
+      "payload": {
+        "text": "NOTE 9 The SRE command places the DRAM in self refresh state"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          474.2684020996094,
+          273.9317626953125,
+          467.8493957519531
+        ]
+      },
+      "payload": {
+        "text": "NOTE 10 The PDE command places the DRAM in power down state"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          464.2654113769531,
+          511.063232421875,
+          457.8323974609375
+        ]
+      },
+      "payload": {
+        "text": "NOTE 11 Two cycle commands with no ODT control (ACT, MRW, WRP). DRAM does not execute the command if it receives CS as LOW on 2nd cycle."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          454.2624206542969,
+          504.5833740234375,
+          447.82940673828125
+        ]
+      },
+      "payload": {
+        "text": "NOTE 12 WR command with WR_partial = Low indicates a partial write command. This is to help DRAM start an internal read for 'read modify write'."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          444.2594299316406,
+          536.720947265625,
+          417.82037353515625
+        ]
+      },
+      "payload": {
+        "text": "NOTE 13 If CW=Low during the MRW command then DRAM should execute the command, Mode Register will be written. If CW=HIGH then DRAM ignores the MRW command, and the Mode Register is not changed. During MRR commands the DRAM ignores the value of the CW bit, MRR will be executed if CW=Low or CW=High."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          414.2503967285156,
+          243.95361328125,
+          407.8173828125
+        ]
+      },
+      "payload": {
+        "text": "NOTE 14 CID[3:0] bits are used for 3DS stacking support."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          404.2474060058594,
+          520.4228515625,
+          397.81439208984375
+        ]
+      },
+      "payload": {
+        "text": "NOTE 15 If CA5:BL*=L, the command places the DRAM into the alternate Burst mode described by MR0[1:0] instead of the default Burst Length 16 mode."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          394.244384765625,
+          408.5872802734375,
+          387.82537841796875
+        ]
+      },
+      "payload": {
+        "text": "NOTE 16 ODT=L is defined to allow On Die Termination (ODT) to persist when the device is in Power Down Mode."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          384.2413635253906,
+          535.3273315429688,
+          367.80535888671875
+        ]
+      },
+      "payload": {
+        "text": "NOTE 17 CID3/R17 is a multi-mode pin allowing for either 16H 3DS stacking with the CID3 bit usage or R17 for high bit density monolithic usage. These usages are mutually exclusive."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          364.2353820800781,
+          233.87429809570312,
+          357.8023681640625
+        ]
+      },
+      "payload": {
+        "text": "NOTE 18 Write Pattern only supports BL16 and BL32."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          354.23236083984375,
+          247.07350158691406,
+          348.1423645019531
+        ]
+      },
+      "payload": {
+        "text": "NOTE 19 When CID3 is not used, its CA decode is VALID."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          344.2293395996094,
+          526.6417236328125,
+          327.8073425292969
+        ]
+      },
+      "payload": {
+        "text": "NOTE 20 In the case of a DRAM where the density or stacking doesn't require CA[13] the ball location for that function (considering the state of MIR) shall be connected to VDDQ, and the DRAM shall decode CA[13]=L so that the proper selection of die and RA is provided."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          324.2233581542969,
+          519.0277709960938,
+          309.2013244628906
+        ]
+      },
+      "payload": {
+        "text": "NOTE 21 CID2/DDPID is a multi-mode pin allowing for either 3DS stacking with CID2 or DDP packaging with DDPID. Use of 3DS and DDP are mutually exclusive."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          304.2173156738281,
+          334.18988037109375,
+          297.7843017578125
+        ]
+      },
+      "payload": {
+        "text": "NOTE 22 V/DDPID is a multi-mode pin where the DDPID is used for DDP packages only."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          294.2143249511719,
+          306.3515625,
+          287.78131103515625
+        ]
+      },
+      "payload": {
+        "text": "NOTE 23 Any command using DDPID shall issue a NOP to non-selected device."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          284.2113342285156,
+          255.4525146484375,
+          277.7783203125
+        ]
+      },
+      "payload": {
+        "text": "NOTE 24 NT-ODT behavior is not influenced by DDPIP value"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          274.20831298828125,
+          261.71331787109375,
+          267.7752990722656
+        ]
+      },
+      "payload": {
+        "text": "NOTE 25 CA[0:1] =[L:L] on the second cycle for burst ordering."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          264.205322265625,
+          310.6712341308594,
+          258.1153259277344
+        ]
+      },
+      "payload": {
+        "text": "NOTE 26 When host issue MRR with CRC enabled, data comes out with CRC bit."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          254.20228576660156,
+          402.58758544921875,
+          247.769287109375
+        ]
+      },
+      "payload": {
+        "text": "NOTE 27 If the Refresh Management Required bit is \"0\" (MR58 OP[0]=0), CA9 is only required to be valid (\"V\")."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          73.90330505371094,
+          244.1992950439453,
+          534.3213500976562,
+          219.17428588867188
+        ]
+      },
+      "payload": {
+        "text": "NOTE 28 If the Refresh Interval Rate indicator bit is disabled (MR4:OP[3]=0), CA8 is only required to be valid (\"V\"). If the Refresh Interval Rate indicator bit is enabled (MR4:OP[3]=1), the host will set CA8=H for REF commands issued at the 1x refresh interval rate and CA8=L for REF commands issued at the 2x refresh interval rate."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          72.14330291748047,
+          720.8964233398438,
+          191.8277130126953,
+          709.6404418945312
+        ]
+      },
+      "payload": {
+        "text": "4.7 Read Operation"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          72.09730529785156,
+          702.4271240234375,
+          540.078125,
+          627.330078125
+        ]
+      },
+      "payload": {
+        "text": "The Read Operation causes the DRAM to retrieve and output data stored in its array. The Read Operation is initiated by the Read Command during which the beginning column address and bank/group address for the data to be retrieved from the array is provided. The data is driven by the DRAM on its DQ pins RL (CL) cycles after the Read Command along with the proper waveform on the DQS inputs. Read Latency (RL or CL) is defined from the Read command to data and is not affected by the Read DQS offset timing (MR40 OP[2:0])."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          72.14330291748047,
+          612.8967895507812,
+          227.91049194335938,
+          601.6408081054688
+        ]
+      },
+      "payload": {
+        "text": "4.7.1 Read Burst Operation"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          72.17430114746094,
+          596.4276123046875,
+          534.5648193359375,
+          573.3165893554688
+        ]
+      },
+      "payload": {
+        "text": "During a READ or WRITE command, DDR5 shall support BC8, BL16, BL32 (optional) and BL32 OTF (optional) during the READ or WRITE. MR0[1:0] is used to select burst operation mode."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          71.89130401611328,
+          388.56585693359375,
+          330.4264831542969,
+          381.6058654785156
+        ]
+      },
+      "payload": {
+        "text": "NOTE 1 BL=16, Preamble = 2tCK - 0010 Pattern Preamble, 1.5tCK Postamble"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          71.89130401611328,
+          378.56585693359375,
+          412.04736328125,
+          371.2138671875
+        ]
+      },
+      "payload": {
+        "text": "NOTE 2 DES commands are shown for ease of illustration; other commands may be valid at these times."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          71.89130401611328,
+          368.56585693359375,
+          298.53131103515625,
+          361.2138671875
+        ]
+      },
+      "payload": {
+        "text": "NOTE 3 In this example, Read DQS Offset Timing is set to 0 Clocks."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          205.62171936035156,
+          358.5019836425781,
+          406.294677734375,
+          348.5690002441406
+        ]
+      },
+      "payload": {
+        "text": "Figure 27 — Read Burst Operation (BL16)"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 4,
+        "bbox": [
+          208.0661163330078,
+          98.21690368652344,
+          403.70001220703125,
+          88.28390502929688
+        ]
+      },
+      "payload": {
+        "text": "Figure 28 — Read Burst Operation (BC8)"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          71.89130401611328,
+          434.1014709472656,
+          330.4264831542969,
+          427.1414794921875
+        ]
+      },
+      "payload": {
+        "text": "NOTE 1 BL=16, Preamble = 2tCK - 0010 Pattern Preamble, 1.5tCK Postamble"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          71.89130401611328,
+          424.1014709472656,
+          412.04736328125,
+          416.7494812011719
+        ]
+      },
+      "payload": {
+        "text": "NOTE 2 DES commands are shown for ease of illustration; other commands may be valid at these times."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          71.89130401611328,
+          414.1014709472656,
+          538.2577514648438,
+          396.7494812011719
+        ]
+      },
+      "payload": {
+        "text": "NOTE 3 Two different examples are shown side by side, the top with the default setting for Read DQS Offset = 0 Clock, the lower with a 1 Clock setting. In the lower case, the DQS is started 1 clock earlier than normal with respect to RL (CL)."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          71.89130401611328,
+          393.9654846191406,
+          98.98651123046875,
+          388.35748291015625
+        ]
+      },
+      "payload": {
+        "text": "NOTE 4"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          106.02729797363281,
+          394.1014709472656,
+          226.75048828125,
+          387.1414794921875
+        ]
+      },
+      "payload": {
+        "text": "In both cases, the Data does not move"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          91.14450073242188,
+          382.03778076171875,
+          520.768310546875,
+          372.10479736328125
+        ]
+      },
+      "payload": {
+        "text": "Figure 29 — Read to Read, Different Ranks Operation with Read DQS Offset Usage (BL16)"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          72.14330291748047,
+          357.6831970214844,
+          360.10968017578125,
+          346.2951965332031
+        ]
+      },
+      "payload": {
+        "text": "4.7.2 Burst Read Operation Followed by a Precharge"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          71.97630310058594,
+          341.2138671875,
+          540.0789794921875,
+          279.0968933105469
+        ]
+      },
+      "payload": {
+        "text": "The minimum external Read command to Precharge command spacing to the same bank is equal to tRTP with tRTP being the Internal Read Command to Precharge Command Delay. Note that the minimum ACT to PRE timing, tRAS, must be satisfied as well. The minimum value for the Internal Read Command to Precharge Command Delay is given by tRTP.min. A new bank active command may be issued to the same bank if the following two conditions are satisfied simultaneously:"
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          73.15730285644531,
+          276.177001953125,
+          530.9595336914062,
+          266.98699951171875
+        ]
+      },
+      "payload": {
+        "text": "1 The minimum RAS precharge time (tRP.MIN) has been satisfied from the clock at which the precharge begins."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          72.19730377197266,
+          264.177001953125,
+          468.3213806152344,
+          254.98699951171875
+        ]
+      },
+      "payload": {
+        "text": "2 The minimum RAS cycle time (tRC.MIN) from the previous bank activation has been satisfied."
+      }
+    },
+    {
+      "type": "text",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 5,
+        "bbox": [
+          72.21830749511719,
+          248.2143096923828,
+          474.6972961425781,
+          238.1053009033203
+        ]
+      },
+      "payload": {
+        "text": "Examples of Read commands followed by Precharge are shown in Figure 30 and Figure 31 ."
+      }
+    },
+    {
+      "type": "table",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 2,
+        "bbox": [
+          70.78963470458984,
+          547.8537445068359,
+          539.8523559570312,
+          58.65106201171875
+        ]
+      },
+      "payload": {
+        "csv": null,
+        "n_rows": 34,
+        "n_cols": 18,
+        "caption": null
+      }
+    },
+    {
+      "type": "table",
+      "id": null,
+      "source": {
+        "pdf": "data\\raw\\test_img_table.pdf",
+        "page": 3,
+        "bbox": [
+          70.90868377685547,
+          703.9888076782227,
+          539.8140869140625,
+          558.3954467773438
+        ]
+      },
+      "payload": {
+        "csv": null,
+        "n_rows": 11,
+        "n_cols": 18,
+        "caption": null
+      }
+    }
+  ]
+}

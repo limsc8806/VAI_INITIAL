@@ -1,0 +1,71 @@
+{
+  "commands": [
+    "WR",
+    "ZQ",
+    "MRW",
+    "RD",
+    "ACT"
+  ],
+  "mapping": {
+    "WR": {
+      "ZQ": "Y",
+      "RD": "Y",
+      "MRW": "Y"
+    },
+    "ZQ": {
+      "MRW": "Y",
+      "ACT": "Y"
+    },
+    "MRW": {
+      "RD": "Y",
+      "MRR": "Y",
+      "WR": "Y"
+    },
+    "RD": {
+      "WR": "Y",
+      "REFab": "Y",
+      "MRR": "Y"
+    },
+    "MRR": {
+      "WR": "Y",
+      "SRE": "Y",
+      "NOP": "Y",
+      "REF": "Y"
+    },
+    "REFab": {
+      "REFsb": "Y"
+    },
+    "SRE": {
+      "PDE": "Y"
+    },
+    "PDE": {
+      "MPC": "Y",
+      "ACT": "Y"
+    },
+    "MPC": {
+      "NOP": "Y"
+    },
+    "NOP": {
+      "PDX": "Y",
+      "MRR": "Y"
+    },
+    "PDX": {
+      "WR": "Y"
+    },
+    "ACT": {
+      "MRW": "Y",
+      "PRE": "Y"
+    },
+    "REF": {
+      "READ": "Y"
+    },
+    "READ": {
+      "WRITE": "Y"
+    },
+    "WRITE": {
+      "READ": "Y"
+    }
+  },
+  "default": "UNKNOWN",
+  "csv_path": "artifacts\\compatibility_matrix.csv"
+}

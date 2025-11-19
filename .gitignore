@@ -2,4 +2,9 @@
 *.log
 data/processed/
 configs/default.yaml
-
+.env
+.env.*
+config.local.json
+config.secrets.json
+*.secret.*
+*.private.*

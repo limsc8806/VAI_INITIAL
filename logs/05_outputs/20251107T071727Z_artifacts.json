@@ -1,0 +1,7 @@
+{
+  "catalog_path": "artifacts\\catalog.yaml",
+  "review_path": "artifacts\\review.yaml",
+  "review_schema_version": "review-0.1.0",
+  "review_generated_at": "2025-11-07T07:17:26Z",
+  "compatibility_csv_path": "artifacts\\compatibility_matrix.csv"
+}

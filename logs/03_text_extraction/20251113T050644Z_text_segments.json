@@ -1,0 +1,1024 @@
+{
+  "items": [
+    {
+      "page": 1,
+      "source": "text",
+      "content": "JEDEC Standard No. 79-5\nPage 8",
+      "bbox": [
+        71.98729705810547,
+        32.250389099121094,
+        189.143310546875,
+        57.900390625
+      ],
+      "block_index": 0
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "LIGHT GREY - All Light Grey text is defined as something that should be considered TBD. The content may be accurate or \nthe same as previous technologies but has not yet been reviewed or determined to be the working assumption.",
+      "bbox": [
+        71.48729705810547,
+        739.8671264648438,
+        536.7504272460938,
+        761.3231201171875
+      ],
+      "block_index": 1
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "3\nFunctional Description",
+      "bbox": [
+        71.98729705810547,
+        77.50370788574219,
+        226.49449157714844,
+        93.88370513916016
+      ],
+      "block_index": 2
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "3.1\nSimplified State Diagram",
+      "bbox": [
+        71.98729705810547,
+        107.50370788574219,
+        239.89846801757812,
+        129.91702270507812
+      ],
+      "block_index": 3
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "WR+AP,\nWRP+AP\nWR+AP,\nWRP+AP",
+      "bbox": [
+        108.93840026855469,
+        577.2007446289062,
+        209.1981658935547,
+        590.2915649414062
+      ],
+      "block_index": 22
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "PREab, PREsb, PREpb\nPREab, PREsb, PREpb",
+      "bbox": [
+        233.5428009033203,
+        630.3855590820312,
+        372.023681640625,
+        639.0693969726562
+      ],
+      "block_index": 25
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "VrefC\nf A\nTraining\nVrefCA",
+      "bbox": [
+        452.1859130859375,
+        150.26773071289062,
+        508.3589782714844,
+        173.4790496826172
+      ],
+      "block_index": 60
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "CS\nTraining\nMCP+CSTM Enter",
+      "bbox": [
+        431.6693115234375,
+        209.94522094726562,
+        508.3589782714844,
+        234.0057830810547
+      ],
+      "block_index": 65
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "ZQ\nCalibra-\nƟon Idle",
+      "bbox": [
+        483.019287109375,
+        324.83251953125,
+        508.7987060546875,
+        350.5843505859375
+      ],
+      "block_index": 67
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "MCP+PDA Enum Enter\nM",
+      "bbox": [
+        227.4788055419922,
+        331.8305358886719,
+        283.513671875,
+        337.77117919921875
+      ],
+      "block_index": 74
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "Write\nLeveling\nMRW+WL Init=1, MRW+WL Training=1",
+      "bbox": [
+        95.8228988647461,
+        244.48782348632812,
+        258.86627197265625,
+        260.8517150878906
+      ],
+      "block_index": 82
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "MRW+WL Init=0, MRW+WL Training=0",
+      "bbox": [
+        163.48390197753906,
+        266.2204284667969,
+        260.2632751464844,
+        272.16107177734375
+      ],
+      "block_index": 83
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "RD+AP+BL32\nWR+AP+BL32",
+      "bbox": [
+        155.51109313964844,
+        487.32025146484375,
+        438.5491638183594,
+        495.9214782714844
+      ],
+      "block_index": 94
+    },
+    {
+      "page": 1,
+      "source": "text",
+      "content": "Ɵon\nAcƟve\nMCP+ZQ Start",
+      "bbox": [
+        423.526611328125,
+        397.92840576171875,
+        505.5163269042969,
+        414.7376403808594
+      ],
+      "block_index": 97
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "JEDEC Standard No. 79-5\nPage 103",
+      "bbox": [
+        422.78070068359375,
+        32.250389099121094,
+        540.17578125,
+        57.900390625
+      ],
+      "block_index": 0
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "4\nDDR5 SDRAM Command Description and Operation",
+      "bbox": [
+        71.98729705810547,
+        77.50370788574219,
+        388.4897766113281,
+        93.88370513916016
+      ],
+      "block_index": 1
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "4.1\nCommand Truth Table\n•\nNotes 1, 2 & 14 apply to the entire Command truth table\n•\nTo improve command decode time, the table has been optimized to orient all 1-cycle commands together and all \n2-cycle commands together; allowing CA1 to be used to identify the difference between a 1-cycle and a 2-cycle \ncommand.\n[BG=Bank Group Address, BA=Bank Address, R=Row Address, C=Column Address, MRA=Mode \nRegister Address, OP=Op Code, CID=Chip ID, DDPID=Dual Die Package ID, CW=Control Word, \nX=Don’t Care, V=Valid].\n  \nTable 241 — Command Truth Table",
+      "bbox": [
+        71.98729705810547,
+        107.50370788574219,
+        538.6294555664062,
+        238.92453002929688
+      ],
+      "block_index": 2
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Function \nAbbrevia-\ntion\nCS_n",
+      "bbox": [
+        98.78630065917969,
+        247.6470947265625,
+        208.35238647460938,
+        262.2391052246094
+      ],
+      "block_index": 3
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "NOTES\nCA0\nCA1\nCA2\nCA3\nCA4\nCA5\nCA6\nCA7\nCA8\nCA9\nCA10\nCA11\nCA12\nCA13",
+      "bbox": [
+        214.4967041015625,
+        250.6470947265625,
+        532.0289916992188,
+        264.2389831542969
+      ],
+      "block_index": 5
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Activate\nACT\nL\nL\nL\nR0\nR1\nR2\nR3\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 11,17,20,21,\n23,24\nH\nR4\nR5\nR6\nR7\nR8\nR9\nR10\nR11\nR12\nR13\nR14\nR15\nR16\nCID3/\nR17",
+      "bbox": [
+        72.98729705810547,
+        265.74298095703125,
+        538.2171630859375,
+        295.9330139160156
+      ],
+      "block_index": 6
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "RFU\nRFU\nL\nH\nL\nL\nL\nL\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        72.98729705810547,
+        296.9961853027344,
+        495.0172119140625,
+        313.91619873046875
+      ],
+      "block_index": 7
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "H\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        196.44090270996094,
+        308.9961853027344,
+        495.02740478515625,
+        319.91619873046875
+      ],
+      "block_index": 8
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "RFU\nRFU\nL\nH\nL\nL\nL\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        72.98729705810547,
+        320.99609375,
+        495.0175476074219,
+        337.9161071777344
+      ],
+      "block_index": 9
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "H\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        196.44090270996094,
+        332.99609375,
+        495.02740478515625,
+        343.9161071777344
+      ],
+      "block_index": 10
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Write Pattern \nWRP\nL\nH\nL\nL\nH\nL\nH\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 11,15,18,19,\n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nH\nH\nV\nCID3",
+      "bbox": [
+        72.98729705810547,
+        345.6466979980469,
+        538.40625,
+        371.9158935546875
+      ],
+      "block_index": 11
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Write Pattern w/ Auto \nPrecharge\nWRPA\nL\nH\nL\nL\nH\nL\nH\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 11,15,18,19,\n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nAP=L\nH\nV\nCID3",
+      "bbox": [
+        72.98729705810547,
+        373.6466064453125,
+        538.40625,
+        399.9158935546875
+      ],
+      "block_index": 12
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "RFU\nRFU\nL\nH\nL\nL\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        72.98729705810547,
+        400.9956970214844,
+        495.0175476074219,
+        417.91571044921875
+      ],
+      "block_index": 13
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "H\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        196.44090270996094,
+        412.9956970214844,
+        495.02740478515625,
+        423.91571044921875
+      ],
+      "block_index": 14
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Mode Register Write\nMRW\nL\nH\nL\nH\nL\nL\nMRA0 MRA1 MRA2 MRA3 MRA4 MRA5 MRA6 MRA7\nV/\nDDPID 8,11,13,20, \n22,23,24\nH\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nOP7\nV\nV\nCW\nV\nV\nV",
+      "bbox": [
+        72.98729705810547,
+        425.7423095703125,
+        538.4561157226562,
+        451.9156188964844
+      ],
+      "block_index": 15
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Mode Register Read\nMRR\nL\nH\nL\nH\nL\nH\nMRA0 MRA1 MRA2 MRA3 MRA4 MRA5 MRA6 MRA7\nV/\nDDPID 8,13,20,22, \n23,24,25,26\nH\nL\nL\nV\nV\nV\nV\nV\nV\nV\nV\nCW\nV\nV\nV",
+      "bbox": [
+        72.98729705810547,
+        453.7422180175781,
+        538.4744262695312,
+        479.9154968261719
+      ],
+      "block_index": 16
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Write\nWR\nL\nH\nL\nH\nH\nL\nBL*=L\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 8,12,15,19, \n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nH\nWR_ \nPartial=L\nV\nCID3",
+      "bbox": [
+        72.98729705810547,
+        481.6460876464844,
+        538.46630859375,
+        509.9403991699219
+      ],
+      "block_index": 17
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Write w/Auto Precharge\nWRA\nL\nH\nL\nH\nH\nL\nBL*=L\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 8,12,15,19, \n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nAP=L\nWR_ \nPartial=L\nV\nCID3",
+      "bbox": [
+        72.98729705810547,
+        511.74200439453125,
+        538.4631958007812,
+        539.940185546875
+      ],
+      "block_index": 18
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Read\nRD\nL\nH\nL\nH\nH\nH\nBL*=L\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 8,15,19,20, \n21,23,24\nH\nC2\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nH\nV\nV\nCID3",
+      "bbox": [
+        72.98729705810547,
+        541.7418212890625,
+        538.4631958007812,
+        567.9150390625
+      ],
+      "block_index": 19
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Read w/Auto Precharge\nRDA\nL\nH\nL\nH\nH\nH\nBL*=L\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 8,15,19,20, \n21,23,24\nH\nC2\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nAP=L\nV\nV\nCID3",
+      "bbox": [
+        72.98729705810547,
+        569.74169921875,
+        538.4631958007812,
+        595.9148559570312
+      ],
+      "block_index": 20
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "VrefCA Command\nVrefCA\nL\nH\nH\nL\nL\nL\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nL\nV/\nDDPID\n22,23,24",
+      "bbox": [
+        72.98729705810547,
+        597.7415771484375,
+        533.6248779296875,
+        611.9315795898438
+      ],
+      "block_index": 21
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "VrefCS Command\nVrefCS\nL\nH\nH\nL\nL\nL\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nH\nV/\nDDPID\n22,23,24",
+      "bbox": [
+        72.98729705810547,
+        613.7415771484375,
+        533.6251220703125,
+        627.9315795898438
+      ],
+      "block_index": 22
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Refresh All\nREFab\nL\nH\nH\nL\nL\nH\nCID3\nV\nV\nV or \nRIR\nH\nL\nCID0\nCID1\nCID2/\nDDPID\n3,21,23,24, \n27, 28\nRefresh Management \nAll\nRFMab\nL\nH\nH\nL\nL\nH\nCID3\nV\nV\nV\nL\nL\nCID0\nCID1\nCID2/\nDDPID\n3,20,21,23, \n24",
+      "bbox": [
+        72.98729705810547,
+        629.7415771484375,
+        538.4638061523438,
+        663.914794921875
+      ],
+      "block_index": 23
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Refresh Same Bank\nREFsb\nL\nH\nH\nL\nL\nH\nCID3\nBA0\nBA1\nV or \nRIR\nH\nH\nCID0\nCID1\nCID2/\nDDPID\n4,20,21,23, \n24,27, 28\nRefresh Management \nSame Bank\nRFMsb\nL\nH\nH\nL\nL\nH\nCID3\nBA0\nBA1\nV\nL\nH\nCID0\nCID1\nCID2/\nDDPID\n4,20,21,23, \n24",
+      "bbox": [
+        72.98729705810547,
+        665.7413940429688,
+        538.464111328125,
+        699.91455078125
+      ],
+      "block_index": 24
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Precharge All\nPREab\nL\nH\nH\nL\nH\nL\nCID3\nV\nV\nV\nV\nL\nCID0\nCID1\nCID2/\nDDPID\n5,20,21,23, \n24",
+      "bbox": [
+        72.98729705810547,
+        701.7412109375,
+        538.4638061523438,
+        715.9312133789062
+      ],
+      "block_index": 25
+    },
+    {
+      "page": 2,
+      "source": "text",
+      "content": "Precharge Same Bank\nPREsb\nL\nH\nH\nL\nH\nL\nCID3\nBA0\nBA1\nV\nV\nH\nCID0\nCID1\nCID2/\nDDPID\n6,20,21,23, \n24",
+      "bbox": [
+        72.98729705810547,
+        717.7410888671875,
+        538.464111328125,
+        731.9310913085938
+      ],
+      "block_index": 26
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "JEDEC Standard No. 79-5\nPage 104",
+      "bbox": [
+        71.98729705810547,
+        32.250389099121094,
+        189.143310546875,
+        57.900390625
+      ],
+      "block_index": 0
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "Precharge \nPREpb\nL\nH\nH\nL\nH\nH\nCID3\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID\n7,20,21,23, \n24\nRFU\nRFU\nL\nH\nH\nH\nL\nL\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        72.98729705810547,
+        109.74352264404297,
+        538.4631958007812,
+        135.91677856445312
+      ],
+      "block_index": 1
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "Self Refresh Entry\nSRE\nL\nH\nH\nH\nL\nH\nV\nV\nV\nV\nH\nL\nV\nV\nV\n9",
+      "bbox": [
+        72.98729705810547,
+        136.9967041015625,
+        523.4649047851562,
+        147.91671752929688
+      ],
+      "block_index": 2
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "Self Refresh Entry w/\nFrequency Change\nSREF\nL\nH\nH\nH\nL\nH\nV\nV\nV\nV\nL\nL\nV\nV\nV\n9",
+      "bbox": [
+        72.98729705810547,
+        148.9967041015625,
+        523.4649047851562,
+        167.91671752929688
+      ],
+      "block_index": 3
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "Power Down Entry\nPDE\nL\nH\nH\nH\nL\nH\nV\nV\nV\nV\nV\nH\nODT=L\nV\nV\n10,16",
+      "bbox": [
+        72.98729705810547,
+        168.99652099609375,
+        529.152587890625,
+        179.91653442382812
+      ],
+      "block_index": 4
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "MPC\nMPC\nL\nH\nH\nH\nH\nL\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nOP7\nV/\nDDPID 20,22,23,24",
+      "bbox": [
+        72.98729705810547,
+        181.7432098388672,
+        537.6280517578125,
+        195.93321228027344
+      ],
+      "block_index": 5
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "NOP\nNOP\nL\nH\nH\nH\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        72.98729705810547,
+        196.99639892578125,
+        495.0175476074219,
+        207.91641235351562
+      ],
+      "block_index": 6
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "Power Down Exit\nPDX\nL\nH\nH\nH\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "bbox": [
+        72.98729705810547,
+        208.99639892578125,
+        495.0175476074219,
+        219.91641235351562
+      ],
+      "block_index": 7
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "Deselect\nDES\nH\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX",
+      "bbox": [
+        72.98729705810547,
+        220.99627685546875,
+        495.02740478515625,
+        231.91629028320312
+      ],
+      "block_index": 8
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "NOTE 1\nV means H or L (a defined logic level). X means don't care in which case the signal may be floated.\nNOTE 2\nBank group addresses BG[2:0] and Bank addresses BA[1:0] determine which bank is to be operated upon in a specific bank group.\nNOTE 3\nThe Refresh All and Refresh Management All commands are applied to all banks in all bank groups. CA6 and CA7 are required to be valid (“V”)\nNOTE 4\nThe Refresh Same Bank and Refresh Management Same Bank commands refresh the same bank in all bank group bits. The bank bits, BA0 and BA1 on \nCA6 and CA7, respectively, specify the bank within each bank group.\nNOTE 5\nThe Precharge All command applies to all open banks in all bank groups.\nNOTE 6\nThe Precharge Same Bank command applies to the same bank in all bank groups. The bank bits specify the bank within each bank group.\nNOTE 7\nThe Precharge command applies to a single bank as specified by bank address and bank group bits. \nNOTE 8\nCS_n=LOW during the 2nd cycle of a two cycle command controls ODT in non-target ranks for WR, RD and MRR commands. \nNOTE 9\nThe SRE command places the DRAM in self refresh state\nNOTE 10\nThe PDE command places the DRAM in power down state\nNOTE 11\nTwo cycle commands with no ODT control (ACT, MRW, WRP). DRAM does not execute the command if it receives CS as LOW on 2nd cycle. \nNOTE 12\nWR command with WR_partial = Low indicates a partial write command. This is to help DRAM start an internal read for 'read modify write'.\nNOTE 13\nIf CW=Low during the MRW command then DRAM should execute the command, Mode Register will be written. If CW=HIGH then DRAM ignores the \nMRW command, and the Mode Register is not changed. During MRR commands the DRAM ignores the value of the CW bit, MRR will be executed if \nCW=Low or CW=High.\nNOTE 14\nCID[3:0] bits are used for 3DS stacking support.\nNOTE 15\nIf CA5:BL*=L, the command places the DRAM into the alternate Burst mode described by MR0[1:0] instead of the default Burst Length 16 mode.\nNOTE 16\nODT=L is defined to allow On Die Termination (ODT) to persist when the device is in Power Down Mode. \nNOTE 17\nCID3/R17 is a multi-mode pin allowing for either 16H 3DS stacking with the CID3 bit usage or R17 for high bit density monolithic usage. These usages \nare mutually exclusive. \nNOTE 18\nWrite Pattern only supports BL16 and BL32. \nNOTE 19\nWhen CID3 is not used, its CA decode is VALID.\nNOTE 20\nIn the case of a DRAM where the density or stacking doesn't require CA[13] the ball location for that function (considering the state of MIR) shall be \nconnected to VDDQ, and the DRAM shall decode CA[13]=L so that the proper selection of die and RA is provided.\nNOTE 21\nCID2/DDPID is a multi-mode pin allowing for either 3DS stacking with CID2 or DDP packaging with DDPID. Use of 3DS and DDP are mutually \nexclusive.\nNOTE 22\nV/DDPID is a multi-mode pin where the DDPID is used for DDP packages only.\nNOTE 23\nAny command using DDPID shall issue a NOP to non-selected device.\nNOTE 24\nNT-ODT behavior is not influenced by DDPIP value\nNOTE 25\nCA[0:1] =[L:L] on the second cycle for burst ordering. \nNOTE 26\nWhen host issue MRR with CRC enabled, data comes out with CRC bit. \nNOTE 27\nIf the Refresh Management Required bit is “0” (MR58 OP[0]=0), CA9 is only required to be valid (“V”).\nNOTE 28\nIf the Refresh Interval Rate indicator bit is disabled (MR4:OP[3]=0), CA8 is only required to be valid (“V”). If the Refresh Interval Rate indicator bit is \nenabled (MR4:OP[3]=1), the host will set CA8=H for REF commands issued at the 1x refresh interval rate and CA8=L for REF commands issued at the \n2x refresh interval rate.",
+      "bbox": [
+        73.98728942871094,
+        235.36959838867188,
+        538.6785278320312,
+        574.8833618164062
+      ],
+      "block_index": 9
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "Table 241 — Command Truth Table (Cont’d)",
+      "bbox": [
+        199.68170166015625,
+        67.70101928710938,
+        411.9156494140625,
+        82.92501831054688
+      ],
+      "block_index": 10
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "Function \nAbbrevia-\ntion\nCS_n",
+      "bbox": [
+        98.78630065917969,
+        91.6475830078125,
+        208.35238647460938,
+        106.23957824707031
+      ],
+      "block_index": 11
+    },
+    {
+      "page": 3,
+      "source": "text",
+      "content": "NOTES\nCA0\nCA1\nCA2\nCA3\nCA4\nCA5\nCA6\nCA7\nCA8\nCA9\nCA10\nCA11\nCA12\nCA13",
+      "bbox": [
+        214.4967041015625,
+        94.6475830078125,
+        532.0289916992188,
+        108.23951721191406
+      ],
+      "block_index": 13
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "JEDEC Standard No. 79-5\nPage 114",
+      "bbox": [
+        71.98729705810547,
+        32.250389099121094,
+        189.143310546875,
+        57.900390625
+      ],
+      "block_index": 0
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "The Read Operation causes the DRAM to retrieve and output data stored in its array. The Read Operation \nis initiated by the Read Command during which the beginning column address and bank/group address for \nthe data to be retrieved from the array is provided. The data is driven by the DRAM on its DQ pins RL \n(CL) cycles after the Read Command along with the proper waveform on the DQS inputs. Read Latency \n(RL or CL) is defined from the Read command to data and is not affected by the Read DQS offset timing \n(MR40 OP[2:0]).",
+      "bbox": [
+        71.98729705810547,
+        85.87689208984375,
+        540.078369140625,
+        165.70396423339844
+      ],
+      "block_index": 2
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "4.7.1   Read Burst Operation \nDuring a READ or WRITE command, DDR5 shall support BC8, BL16, BL32 (optional) and BL32 OTF \n(optional) during the READ or WRITE. MR0[1:0] is used to select burst operation mode.",
+      "bbox": [
+        71.98729705810547,
+        175.5032196044922,
+        534.5652465820312,
+        219.69541931152344
+      ],
+      "block_index": 3
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "NOTE 1\nBL=16, Preamble = 2tCK - 0010 Pattern Preamble, 1.5tCK Postamble\nNOTE 2\nDES commands are shown for ease of illustration; other commands may be valid at these times.\nNOTE 3\nIn this example, Read DQS Offset Timing is set to 0 Clocks.\nFigure 27 — Read Burst Operation (BL16)",
+      "bbox": [
+        71.98729705810547,
+        400.74609375,
+        412.6153564453125,
+        444.67401123046875
+      ],
+      "block_index": 4
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "NOTE 1\nBC=8, Preamble = 2tCK - 0010 Pattern Preamble, 1.5tCK Postamble\nNOTE 2\nDES commands are shown for ease of illustration; other commands may be valid at these times.\nNOTE 3\nIn this example, Read DQS Offset Timing is set to 0 Clocks\nNOTE 4\nIn non-CRC mode, DQS_t and DQS_c stop toggling at the completion of the BC8 data bursts, plus the postamble.",
+      "bbox": [
+        71.98729705810547,
+        642.0313110351562,
+        471.1721496582031,
+        682.8073120117188
+      ],
+      "block_index": 5
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "Figure 28 — Read Burst Operation (BC8)",
+      "bbox": [
+        207.8240966796875,
+        689.7350463867188,
+        404.1399841308594,
+        704.9590454101562
+      ],
+      "block_index": 6
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "t0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 ta+7\nta+8\nta+9\nta+10\ntb+5\ntb+7\ntb+10 tb+11",
+      "bbox": [
+        123.20870208740234,
+        245.48699951171875,
+        505.6058044433594,
+        251.8803253173828
+      ],
+      "block_index": 12
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "D0\nD1\nD2\nD14 D15\nD13",
+      "bbox": [
+        320.6932067871094,
+        369.4276123046875,
+        360.0304870605469,
+        372.47711181640625
+      ],
+      "block_index": 14
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "ta+5\ntb+12\ntb\ntb+1\ntb+2\ntb+3\ntb+8\ntb+9\ntb+4\ntb+6",
+      "bbox": [
+        260.2596130371094,
+        245.48699951171875,
+        519.3089599609375,
+        251.43748474121094
+      ],
+      "block_index": 15
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "DES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES",
+      "bbox": [
+        147.04859924316406,
+        303.1020812988281,
+        533.410888671875,
+        309.32061767578125
+      ],
+      "block_index": 21
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "t0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 ta+7\nta+8\nta+9\nta+10\nta+16\ntb+1\ntb+4\ntb+5",
+      "bbox": [
+        123.20870208740234,
+        483.2479248046875,
+        503.43988037109375,
+        489.6409912109375
+      ],
+      "block_index": 27
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "ta+5\ntb+6\nta+11 ta+12 ta+13 ta+14\ntb+2\ntb+3\nta+15\ntb",
+      "bbox": [
+        260.2596130371094,
+        483.2479248046875,
+        517.1351928710938,
+        489.6409912109375
+      ],
+      "block_index": 30
+    },
+    {
+      "page": 4,
+      "source": "text",
+      "content": "DES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES",
+      "bbox": [
+        147.04859924316406,
+        540.8629760742188,
+        533.410888671875,
+        547.0814208984375
+      ],
+      "block_index": 36
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "JEDEC Standard No. 79-5\nPage 115",
+      "bbox": [
+        422.78070068359375,
+        32.250389099121094,
+        540.1796875,
+        57.900390625
+      ],
+      "block_index": 0
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "4.7.1   Read Burst Operation (Cont’d)",
+      "bbox": [
+        71.99072265625,
+        68.2503890991211,
+        251.42071533203125,
+        81.900390625
+      ],
+      "block_index": 1
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "NOTE 1\nBL=16, Preamble = 2tCK - 0010 Pattern Preamble, 1.5tCK Postamble\nNOTE 2\nDES commands are shown for ease of illustration; other commands may be valid at these times.\nNOTE 3\nTwo different examples are shown side by side, the top with the default setting for Read DQS Offset = 0 Clock, the lower with a 1 Clock \nsetting. In the lower case, the DQS is started 1 clock earlier than normal with respect to RL (CL).\nNOTE 4\nIn both cases, the Data does not move\nFigure 29 — Read to Read, Different Ranks Operation with Read DQS Offset Usage (BL16)",
+      "bbox": [
+        71.98729705810547,
+        355.2104797363281,
+        540.0496826171875,
+        421.1382141113281
+      ],
+      "block_index": 2
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "4.7.2   Burst Read Operation Followed by a Precharge\nThe minimum external Read command to Precharge command spacing to the same bank is equal to tRTP \nwith tRTP being the Internal Read Command to Precharge Command Delay. Note that the minimum ACT \nto PRE timing, tRAS, must be satisfied as well. The minimum value for the Internal Read Command to \nPrecharge Command Delay is given by tRTP.min. A new bank active command may be issued to the same \nbank if the following two conditions are satisfied simultaneously:\n1\nThe minimum RAS precharge time (tRP.MIN) has been satisfied from the clock at which the precharge begins.\n2\nThe minimum RAS cycle time (tRC.MIN) from the previous bank activation has been satisfied.",
+      "bbox": [
+        71.98729705810547,
+        430.716796875,
+        540.0794067382812,
+        537.9330444335938
+      ],
+      "block_index": 3
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "Examples of Read commands followed by Precharge are shown in Figure 30 and Figure 31.",
+      "bbox": [
+        71.98729705810547,
+        540.0896606445312,
+        475.47833251953125,
+        554.9066772460938
+      ],
+      "block_index": 4
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "t0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 tb\ntb+1\ntb+2\ntb+3\ntd+2\nte\nte+3\nte+4\nta+5\nte+5\ntc\ntc+1\ntc+2\ntd\nte+1\nte+2\ntd+1\ntd+3\ntc+3",
+      "bbox": [
+        119.63510131835938,
+        96.96566772460938,
+        528.22265625,
+        103.3587646484375
+      ],
+      "block_index": 6
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "READ-0\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES DES\nDES\nDES\nDES\nDES\nCMD",
+      "bbox": [
+        77.53910064697266,
+        124.51139831542969,
+        516.2603149414062,
+        131.79525756835938
+      ],
+      "block_index": 9
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "D0\nD1\nD2 D11 D12 D13 D14 D15",
+      "bbox": [
+        428.5414123535156,
+        212.5417938232422,
+        481.6822204589844,
+        215.58859252929688
+      ],
+      "block_index": 13
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "tRPRE\ntRPST\ntRPRE\ntRPST",
+      "bbox": [
+        294.0530090332031,
+        144.62220764160156,
+        491.2178039550781,
+        152.08746337890625
+      ],
+      "block_index": 14
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "RTT_NOM_RD\nRTT_PARK\nRTT_OFF",
+      "bbox": [
+        184.662353515625,
+        219.4861297607422,
+        459.3221435546875,
+        225.2335205078125
+      ],
+      "block_index": 16
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "Matched - Read DQS Offset Timing set to 0 Clock",
+      "bbox": [
+        212.61590576171875,
+        137.93167114257812,
+        375.39337158203125,
+        146.40390014648438
+      ],
+      "block_index": 17
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "Unmatched - Read DQS Offset Timing set to 1 Clock",
+      "bbox": [
+        213.15200805664062,
+        246.61746215820312,
+        385.32965087890625,
+        255.08969116210938
+      ],
+      "block_index": 18
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "tRPRE\ntRPST\nt RPRE\ntRPST\nDQS_c\nDQS_t",
+      "bbox": [
+        78.09410095214844,
+        262.5404357910156,
+        463.57989501953125,
+        278.8537292480469
+      ],
+      "block_index": 19
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "D0\nD1\nD2\nD14 D15\nD13",
+      "bbox": [
+        317.8185119628906,
+        188.10971069335938,
+        357.0065002441406,
+        191.1534423828125
+      ],
+      "block_index": 24
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "D0\nD1\nD2 D11 D12 D13 D14 D15",
+      "bbox": [
+        428.62640380859375,
+        329.03387451171875,
+        481.721923828125,
+        332.0794372558594
+      ],
+      "block_index": 31
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "RTT_NOM_RD\nRTT_PARK\nRTT_OFF",
+      "bbox": [
+        184.662353515625,
+        335.97808837890625,
+        459.3221435546875,
+        341.7254943847656
+      ],
+      "block_index": 33
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "D0\nD1\nD2\nD14 D15\nD13",
+      "bbox": [
+        317.9425964355469,
+        304.601318359375,
+        357.10821533203125,
+        307.64410400390625
+      ],
+      "block_index": 35
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "DQS_RTT_OFF\nRank 0 DQS\nRank 1 DQS",
+      "bbox": [
+        77.53910064697266,
+        279.42974853515625,
+        455.27008056640625,
+        294.71905517578125
+      ],
+      "block_index": 64
+    },
+    {
+      "page": 5,
+      "source": "text",
+      "content": "Rank 0 DQS\nRank 1 DQS",
+      "bbox": [
+        77.43260192871094,
+        161.04701232910156,
+        112.0506362915039,
+        176.33633422851562
+      ],
+      "block_index": 65
+    }
+  ]
+}

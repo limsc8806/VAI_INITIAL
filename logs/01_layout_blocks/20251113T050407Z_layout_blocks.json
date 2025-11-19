@@ -1,0 +1,3821 @@
+{
+  "items": [
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        32.250389099121094,
+        189.143310546875,
+        57.900390625
+      ],
+      "text": "JEDEC Standard No. 79-5\nPage 8",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        71.48729705810547,
+        739.8671264648438,
+        536.7504272460938,
+        761.3231201171875
+      ],
+      "text": "LIGHT GREY - All Light Grey text is defined as something that should be considered TBD. The content may be accurate or \nthe same as previous technologies but has not yet been reviewed or determined to be the working assumption.",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        77.50370788574219,
+        226.49449157714844,
+        93.88370513916016
+      ],
+      "text": "3\nFunctional Description",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        107.50370788574219,
+        239.89846801757812,
+        129.91702270507812
+      ],
+      "text": "3.1\nSimplified State Diagram",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        333.4205017089844,
+        280.80322265625,
+        344.6971130371094,
+        288.22894287109375
+      ],
+      "text": "Idle",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        323.4685974121094,
+        380.47540283203125,
+        354.56988525390625,
+        388.34124755859375
+      ],
+      "text": "AcƟvaƟng",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        279.6058044433594,
+        460.3446960449219,
+        315.98321533203125,
+        468.2105407714844
+      ],
+      "text": "Bank AcƟve",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        111.12640380859375,
+        540.9798583984375,
+        133.72470092773438,
+        548.8456420898438
+      ],
+      "text": "WriƟng",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        159.8074951171875,
+        614.5276489257812,
+        182.4062042236328,
+        622.3934326171875
+      ],
+      "text": "WriƟng",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        286.0609130859375,
+        660.232421875,
+        312.714599609375,
+        676.6016845703125
+      ],
+      "text": "Pre-\ncharging",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        462.5877990722656,
+        540.9798583984375,
+        487.7261047363281,
+        548.4055786132812
+      ],
+      "text": "Reading",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        415.4731140136719,
+        614.5276489257812,
+        440.6120910644531,
+        621.953369140625
+      ],
+      "text": "Reading",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        118.63829803466797,
+        384.5196228027344,
+        138.3496856689453,
+        400.8828430175781
+      ],
+      "text": "AcƟve\nPower",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        119.4894027709961,
+        402.3952941894531,
+        137.50474548339844,
+        409.8210144042969
+      ],
+      "text": "Down",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        334.1357116699219,
+        337.3308410644531,
+        344.1039733886719,
+        343.271484375
+      ],
+      "text": "ACT",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        215.08970642089844,
+        415.83624267578125,
+        225.0697784423828,
+        421.7768859863281
+      ],
+      "text": "PDE",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        206.87640380859375,
+        426.3907470703125,
+        217.04342651367188,
+        432.3313903808594
+      ],
+      "text": "PDX",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        343.4757080078125,
+        472.4246520996094,
+        350.7000427246094,
+        478.36529541015625
+      ],
+      "text": "RD",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        499.4154968261719,
+        494.7724304199219,
+        506.6398620605469,
+        500.71307373046875
+      ],
+      "text": "RD",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        469.80389404296875,
+        571.5542602539062,
+        486.6131896972656,
+        577.494873046875
+      ],
+      "text": "RD+AP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        338.5185852050781,
+        522.9357299804688,
+        355.32708740234375,
+        528.8763427734375
+      ],
+      "text": "RD+AP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        235.7967987060547,
+        471.808837890625,
+        259.6788635253906,
+        477.7494812011719
+      ],
+      "text": "WR, WRP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        108.93840026855469,
+        577.2007446289062,
+        209.1981658935547,
+        590.2915649414062
+      ],
+      "text": "WR+AP,\nWRP+AP\nWR+AP,\nWRP+AP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        88.79620361328125,
+        496.117431640625,
+        112.6785659790039,
+        502.0580749511719
+      ],
+      "text": "WR, WRP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        274.93359375,
+        616.5979614257812,
+        327.31768798828125,
+        622.53857421875
+      ],
+      "text": "PREab, PREsb, PREpb",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        233.5428009033203,
+        630.3855590820312,
+        372.023681640625,
+        639.0693969726562
+      ],
+      "text": "PREab, PREsb, PREpb\nPREab, PREsb, PREpb",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        191.40260314941406,
+        538.0252075195312,
+        198.6270294189453,
+        543.9658203125
+      ],
+      "text": "RD",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        386.8848876953125,
+        547.9199829101562,
+        410.77069091796875,
+        553.860595703125
+      ],
+      "text": "WR, WRP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        237.9250030517578,
+        597.771484375,
+        352.8289794921875,
+        605.497314453125
+      ],
+      "text": "RD+AP\nWR+AP, WRP+AP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        460.5896911621094,
+        690.5787963867188,
+        512.2752685546875,
+        696.8715209960938
+      ],
+      "text": "AutomaƟc Sequence",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        462.0267028808594,
+        697.2879028320312,
+        513.2536010742188,
+        703.228515625
+      ],
+      "text": "Command Sequence",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        116.08439636230469,
+        309.0981140136719,
+        141.1476593017578,
+        325.4613342285156
+      ],
+      "text": "Pre-\ncharged",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        118.63829803466797,
+        326.97821044921875,
+        138.3496856689453,
+        334.4039306640625
+      ],
+      "text": "Power",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        119.4894027709961,
+        335.9208984375,
+        137.50474548339844,
+        343.34661865234375
+      ],
+      "text": "Down",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        197.75230407714844,
+        299.9769287109375,
+        207.7323760986328,
+        305.9175720214844
+      ],
+      "text": "PDE",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        198.52349853515625,
+        313.38653564453125,
+        208.69053649902344,
+        319.3271789550781
+      ],
+      "text": "PDX",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        330.6214904785156,
+        153.64181518554688,
+        356.7895812988281,
+        161.06753540039062
+      ],
+      "text": "Refresh-",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        339.02520751953125,
+        162.57992553710938,
+        348.59088134765625,
+        170.00564575195312
+      ],
+      "text": "ing",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        316.27288818359375,
+        189.77883911132812,
+        349.2305908203125,
+        195.71946716308594
+      ],
+      "text": "REFab, REFsb",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        258.6283874511719,
+        149.17031860351562,
+        284.79718017578125,
+        165.53414916992188
+      ],
+      "text": "Self\nRefresh-",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        267.0314025878906,
+        167.05099487304688,
+        276.59710693359375,
+        174.47671508789062
+      ],
+      "text": "ing",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        295.7511901855469,
+        177.59774780273438,
+        304.7245788574219,
+        183.5383758544922
+      ],
+      "text": "SRE",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        263.19000244140625,
+        202.74154663085938,
+        302.8766784667969,
+        208.6821746826172
+      ],
+      "text": "NOP+NOP+NOP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        463.9556884765625,
+        683.8724975585938,
+        494.7583923339844,
+        689.8131103515625
+      ],
+      "text": "Pin Asserted",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        84.87059783935547,
+        173.50833129882812,
+        115.45154571533203,
+        180.93405151367188
+      ],
+      "text": "Power On",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        95.41230010986328,
+        140.03982543945312,
+        137.51039123535156,
+        145.98045349121094
+      ],
+      "text": "VPP+VDD+VDDQ",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        188.81869506835938,
+        169.03640747070312,
+        221.1934356689453,
+        185.40512084960938
+      ],
+      "text": "Reset\nProcedure",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        178.36749267578125,
+        142.93832397460938,
+        199.74151611328125,
+        148.8789520263672
+      ],
+      "text": "RESET_n",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        141.72900390625,
+        213.77511596679688,
+        169.88186645507812,
+        230.13900756835938
+      ],
+      "text": "Connect-\nivity Test",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        98.78739929199219,
+        207.61581420898438,
+        108.70117950439453,
+        213.5564422607422
+      ],
+      "text": "TEN",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        168.16110229492188,
+        192.98342895507812,
+        178.07496643066406,
+        198.92405700683594
+      ],
+      "text": "TEN",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        186.47900390625,
+        206.33377075195312,
+        207.8538055419922,
+        212.27439880371094
+      ],
+      "text": "RESET_n",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        137.9532012939453,
+        167.53842163085938,
+        159.33340454101562,
+        173.4790496826172
+      ],
+      "text": "RESET_n",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        236.4123992919922,
+        216.99136352539062,
+        276.0989685058594,
+        222.93199157714844
+      ],
+      "text": "NOP+NOP+NOP",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        258.5679931640625,
+        358.5648193359375,
+        283.81951904296875,
+        374.9281311035156
+      ],
+      "text": "Mode\nRegister",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        262.4537048339844,
+        376.44061279296875,
+        280.28070068359375,
+        383.8663330078125
+      ],
+      "text": "Write",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        297.9440002441406,
+        326.8341369628906,
+        311.85577392578125,
+        332.7747802734375
+      ],
+      "text": "MRW",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        398.1015930175781,
+        358.5648193359375,
+        423.3531188964844,
+        374.9281311035156
+      ],
+      "text": "Mode\nRegister",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        402.968505859375,
+        376.44061279296875,
+        418.4892272949219,
+        383.8663330078125
+      ],
+      "text": "Read",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        377.1387023925781,
+        330.329833984375,
+        388.9578552246094,
+        336.2704772949219
+      ],
+      "text": "MRR",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        452.1859130859375,
+        150.26773071289062,
+        508.3589782714844,
+        173.4790496826172
+      ],
+      "text": "VrefC\nf A\nTraining\nVrefCA",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        414.3363037109375,
+        646.7562866210938,
+        430.5660400390625,
+        652.6968994140625
+      ],
+      "text": "A+B+C",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        414.3363037109375,
+        663.0399780273438,
+        430.29052734375,
+        668.9805908203125
+      ],
+      "text": "A, B, C",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        457.114013671875,
+        650.532470703125,
+        496.0538024902344,
+        657.463134765625
+      ],
+      "text": "A and B and C",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        461.63128662109375,
+        669.1549682617188,
+        491.5314025878906,
+        676.0856323242188
+      ],
+      "text": "A or B or C",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        431.6693115234375,
+        209.94522094726562,
+        508.3589782714844,
+        234.0057830810547
+      ],
+      "text": "CS\nTraining\nMCP+CSTM Enter",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        433.7023010253906,
+        245.19345092773438,
+        473.0887451171875,
+        251.1340789794922
+      ],
+      "text": "MCP+CSTM Exit",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        483.019287109375,
+        324.83251953125,
+        508.7987060546875,
+        350.5843505859375
+      ],
+      "text": "ZQ\nCalibra-\nƟon Idle",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        426.69049072265625,
+        327.94134521484375,
+        462.0494384765625,
+        333.8819885253906
+      ],
+      "text": "MCP+ZQ Start",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        483.2200012207031,
+        269.6263122558594,
+        508.3589782714844,
+        285.9903259277344
+      ],
+      "text": "CA\nTraining",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        428.2981872558594,
+        297.3259582519531,
+        464.7483825683594,
+        303.2666015625
+      ],
+      "text": "MCP+CA Enter",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        431.1387023925781,
+        268.0846252441406,
+        458.9031982421875,
+        274.0252685546875
+      ],
+      "text": "CS_n+CS_n",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        185.61920166015625,
+        347.16571044921875,
+        216.04367065429688,
+        363.53411865234375
+      ],
+      "text": "PDA\nEnumera-",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        191.62359619140625,
+        365.0509948730469,
+        209.92523193359375,
+        381.4149169921875
+      ],
+      "text": "Ɵon\nMode",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        227.4788055419922,
+        331.8305358886719,
+        283.513671875,
+        337.77117919921875
+      ],
+      "text": "MCP+PDA Enum Enter\nM",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        238.2957000732422,
+        311.7110290527344,
+        289.7127380371094,
+        317.65167236328125
+      ],
+      "text": "MCP+PDA Enum Exit",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        124.59249877929688,
+        353.26995849609375,
+        172.19683837890625,
+        359.2106018066406
+      ],
+      "text": "MCP+PDA Enum ID",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        399.90478515625,
+        144.69448852539062,
+        431.53350830078125,
+        152.12020874023438
+      ],
+      "text": "Maximum",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        405.6781921386719,
+        153.64181518554688,
+        425.7969055175781,
+        170.00564575195312
+      ],
+      "text": "Power\nSaving",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        406.4892883300781,
+        171.51779174804688,
+        424.7909240722656,
+        178.94351196289062
+      ],
+      "text": "Mode",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        359.9466857910156,
+        182.95767211914062,
+        399.67108154296875,
+        188.89830017089844
+      ],
+      "text": "MRW+MPSM=1",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        392.0570983886719,
+        190.95407104492188,
+        431.78228759765625,
+        196.8946990966797
+      ],
+      "text": "MRW+MPSM=0",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        95.8228988647461,
+        244.48782348632812,
+        258.86627197265625,
+        260.8517150878906
+      ],
+      "text": "Write\nLeveling\nMRW+WL Init=1, MRW+WL Training=1",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        163.48390197753906,
+        266.2204284667969,
+        260.2632751464844,
+        272.16107177734375
+      ],
+      "text": "MRW+WL Init=0, MRW+WL Training=0",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        413.1000061035156,
+        447.5465087890625,
+        440.2131042480469,
+        455.412353515625
+      ],
+      "text": "AwaiƟng",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        414.5274963378906,
+        456.4949951171875,
+        439.03289794921875,
+        463.92071533203125
+      ],
+      "text": "Dummy",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        418.92779541015625,
+        465.4317932128906,
+        434.44842529296875,
+        472.8575134277344
+      ],
+      "text": "Read",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        158.8262939453125,
+        448.8863220214844,
+        185.9401092529297,
+        456.7521667480469
+      ],
+      "text": "AwaiƟng",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        160.25379943847656,
+        457.8348083496094,
+        184.7592315673828,
+        465.2605285644531
+      ],
+      "text": "Dummy",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        163.66920471191406,
+        466.7716064453125,
+        181.49623107910156,
+        474.19732666015625
+      ],
+      "text": "Write",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        339.7847900390625,
+        455.4476318359375,
+        361.96466064453125,
+        461.3882751464844
+      ],
+      "text": "RD+BL32",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        442.506591796875,
+        488.95184326171875,
+        464.6799621582031,
+        494.8924865722656
+      ],
+      "text": "RD+BL32",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        220.50399780273438,
+        456.748046875,
+        244.36436462402344,
+        462.6886901855469
+      ],
+      "text": "WR+BL32",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        129.40530395507812,
+        502.8221435546875,
+        153.26185607910156,
+        508.7627868652344
+      ],
+      "text": "WR+BL32",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        155.51109313964844,
+        487.32025146484375,
+        438.5491638183594,
+        495.9214782714844
+      ],
+      "text": "RD+AP+BL32\nWR+AP+BL32",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        387.9707946777344,
+        674.0940551757812,
+        399.42071533203125,
+        681.519775390625
+      ],
+      "text": "Key",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        483.8559875488281,
+        380.0431213378906,
+        507.8420715332031,
+        396.4122314453125
+      ],
+      "text": "ZQ\nCalibra-",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        423.526611328125,
+        397.92840576171875,
+        505.5163269042969,
+        414.7376403808594
+      ],
+      "text": "Ɵon\nAcƟve\nMCP+ZQ Start",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        128.5034942626953,
+        472.0999450683594,
+        472.1722717285156,
+        480.9534912109375
+      ],
+      "text": "RD+BL32\nWR+BL32",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "text",
+      "bbox": [
+        201.49339294433594,
+        515.8631591796875,
+        416.6951599121094,
+        527.206787109375
+      ],
+      "text": "WR+BL32\nRD+BL32",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "figure",
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "text": null,
+      "meta": {
+        "score": 0.4,
+        "model": "layoutparser",
+        "note": "image_present"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "figure",
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "text": null,
+      "meta": {
+        "score": 0.4,
+        "model": "layoutparser",
+        "note": "image_present"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "figure",
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "text": null,
+      "meta": {
+        "score": 0.4,
+        "model": "layoutparser",
+        "note": "image_present"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "figure",
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "text": null,
+      "meta": {
+        "score": 0.4,
+        "model": "layoutparser",
+        "note": "image_present"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "figure",
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "text": null,
+      "meta": {
+        "score": 0.4,
+        "model": "layoutparser",
+        "note": "image_present"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "figure",
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "text": null,
+      "meta": {
+        "score": 0.4,
+        "model": "layoutparser",
+        "note": "image_present"
+      }
+    },
+    {
+      "page_no": 1,
+      "type": "figure",
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "text": null,
+      "meta": {
+        "score": 0.4,
+        "model": "layoutparser",
+        "note": "image_present"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        422.78070068359375,
+        32.250389099121094,
+        540.17578125,
+        57.900390625
+      ],
+      "text": "JEDEC Standard No. 79-5\nPage 103",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        77.50370788574219,
+        388.4897766113281,
+        93.88370513916016
+      ],
+      "text": "4\nDDR5 SDRAM Command Description and Operation",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        107.50370788574219,
+        538.6294555664062,
+        238.92453002929688
+      ],
+      "text": "4.1\nCommand Truth Table\n•\nNotes 1, 2 & 14 apply to the entire Command truth table\n•\nTo improve command decode time, the table has been optimized to orient all 1-cycle commands together and all \n2-cycle commands together; allowing CA1 to be used to identify the difference between a 1-cycle and a 2-cycle \ncommand.\n[BG=Bank Group Address, BA=Bank Address, R=Row Address, C=Column Address, MRA=Mode \nRegister Address, OP=Op Code, CID=Chip ID, DDPID=Dual Die Package ID, CW=Control Word, \nX=Don’t Care, V=Valid].\n  \nTable 241 — Command Truth Table",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        98.78630065917969,
+        247.6470947265625,
+        208.35238647460938,
+        262.2391052246094
+      ],
+      "text": "Function \nAbbrevia-\ntion\nCS_n",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        345.3634948730469,
+        245.6470947265625,
+        368.1388854980469,
+        254.2390899658203
+      ],
+      "text": "CA Pins",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        214.4967041015625,
+        250.6470947265625,
+        532.0289916992188,
+        264.2389831542969
+      ],
+      "text": "NOTES\nCA0\nCA1\nCA2\nCA3\nCA4\nCA5\nCA6\nCA7\nCA8\nCA9\nCA10\nCA11\nCA12\nCA13",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        265.74298095703125,
+        538.2171630859375,
+        295.9330139160156
+      ],
+      "text": "Activate\nACT\nL\nL\nL\nR0\nR1\nR2\nR3\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 11,17,20,21,\n23,24\nH\nR4\nR5\nR6\nR7\nR8\nR9\nR10\nR11\nR12\nR13\nR14\nR15\nR16\nCID3/\nR17",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        296.9961853027344,
+        495.0172119140625,
+        313.91619873046875
+      ],
+      "text": "RFU\nRFU\nL\nH\nL\nL\nL\nL\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        196.44090270996094,
+        308.9961853027344,
+        495.02740478515625,
+        319.91619873046875
+      ],
+      "text": "H\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        320.99609375,
+        495.0175476074219,
+        337.9161071777344
+      ],
+      "text": "RFU\nRFU\nL\nH\nL\nL\nL\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        196.44090270996094,
+        332.99609375,
+        495.02740478515625,
+        343.9161071777344
+      ],
+      "text": "H\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        345.6466979980469,
+        538.40625,
+        371.9158935546875
+      ],
+      "text": "Write Pattern \nWRP\nL\nH\nL\nL\nH\nL\nH\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 11,15,18,19,\n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nH\nH\nV\nCID3",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        373.6466064453125,
+        538.40625,
+        399.9158935546875
+      ],
+      "text": "Write Pattern w/ Auto \nPrecharge\nWRPA\nL\nH\nL\nL\nH\nL\nH\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 11,15,18,19,\n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nAP=L\nH\nV\nCID3",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        400.9956970214844,
+        495.0175476074219,
+        417.91571044921875
+      ],
+      "text": "RFU\nRFU\nL\nH\nL\nL\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        196.44090270996094,
+        412.9956970214844,
+        495.02740478515625,
+        423.91571044921875
+      ],
+      "text": "H\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        425.7423095703125,
+        538.4561157226562,
+        451.9156188964844
+      ],
+      "text": "Mode Register Write\nMRW\nL\nH\nL\nH\nL\nL\nMRA0 MRA1 MRA2 MRA3 MRA4 MRA5 MRA6 MRA7\nV/\nDDPID 8,11,13,20, \n22,23,24\nH\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nOP7\nV\nV\nCW\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        453.7422180175781,
+        538.4744262695312,
+        479.9154968261719
+      ],
+      "text": "Mode Register Read\nMRR\nL\nH\nL\nH\nL\nH\nMRA0 MRA1 MRA2 MRA3 MRA4 MRA5 MRA6 MRA7\nV/\nDDPID 8,13,20,22, \n23,24,25,26\nH\nL\nL\nV\nV\nV\nV\nV\nV\nV\nV\nCW\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        481.6460876464844,
+        538.46630859375,
+        509.9403991699219
+      ],
+      "text": "Write\nWR\nL\nH\nL\nH\nH\nL\nBL*=L\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 8,12,15,19, \n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nH\nWR_ \nPartial=L\nV\nCID3",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        511.74200439453125,
+        538.4631958007812,
+        539.940185546875
+      ],
+      "text": "Write w/Auto Precharge\nWRA\nL\nH\nL\nH\nH\nL\nBL*=L\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 8,12,15,19, \n20,21,23,24\nH\nV\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nAP=L\nWR_ \nPartial=L\nV\nCID3",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        541.7418212890625,
+        538.4631958007812,
+        567.9150390625
+      ],
+      "text": "Read\nRD\nL\nH\nL\nH\nH\nH\nBL*=L\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 8,15,19,20, \n21,23,24\nH\nC2\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nH\nV\nV\nCID3",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        569.74169921875,
+        538.4631958007812,
+        595.9148559570312
+      ],
+      "text": "Read w/Auto Precharge\nRDA\nL\nH\nL\nH\nH\nH\nBL*=L\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID 8,15,19,20, \n21,23,24\nH\nC2\nC3\nC4\nC5\nC6\nC7\nC8\nC9\nC10\nV\nAP=L\nV\nV\nCID3",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        597.7415771484375,
+        533.6248779296875,
+        611.9315795898438
+      ],
+      "text": "VrefCA Command\nVrefCA\nL\nH\nH\nL\nL\nL\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nL\nV/\nDDPID\n22,23,24",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        613.7415771484375,
+        533.6251220703125,
+        627.9315795898438
+      ],
+      "text": "VrefCS Command\nVrefCS\nL\nH\nH\nL\nL\nL\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nH\nV/\nDDPID\n22,23,24",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        629.7415771484375,
+        538.4638061523438,
+        663.914794921875
+      ],
+      "text": "Refresh All\nREFab\nL\nH\nH\nL\nL\nH\nCID3\nV\nV\nV or \nRIR\nH\nL\nCID0\nCID1\nCID2/\nDDPID\n3,21,23,24, \n27, 28\nRefresh Management \nAll\nRFMab\nL\nH\nH\nL\nL\nH\nCID3\nV\nV\nV\nL\nL\nCID0\nCID1\nCID2/\nDDPID\n3,20,21,23, \n24",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        665.7413940429688,
+        538.464111328125,
+        699.91455078125
+      ],
+      "text": "Refresh Same Bank\nREFsb\nL\nH\nH\nL\nL\nH\nCID3\nBA0\nBA1\nV or \nRIR\nH\nH\nCID0\nCID1\nCID2/\nDDPID\n4,20,21,23, \n24,27, 28\nRefresh Management \nSame Bank\nRFMsb\nL\nH\nH\nL\nL\nH\nCID3\nBA0\nBA1\nV\nL\nH\nCID0\nCID1\nCID2/\nDDPID\n4,20,21,23, \n24",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        701.7412109375,
+        538.4638061523438,
+        715.9312133789062
+      ],
+      "text": "Precharge All\nPREab\nL\nH\nH\nL\nH\nL\nCID3\nV\nV\nV\nV\nL\nCID0\nCID1\nCID2/\nDDPID\n5,20,21,23, \n24",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 2,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        717.7410888671875,
+        538.464111328125,
+        731.9310913085938
+      ],
+      "text": "Precharge Same Bank\nPREsb\nL\nH\nH\nL\nH\nL\nCID3\nBA0\nBA1\nV\nV\nH\nCID0\nCID1\nCID2/\nDDPID\n6,20,21,23, \n24",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        32.250389099121094,
+        189.143310546875,
+        57.900390625
+      ],
+      "text": "JEDEC Standard No. 79-5\nPage 104",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        109.74352264404297,
+        538.4631958007812,
+        135.91677856445312
+      ],
+      "text": "Precharge \nPREpb\nL\nH\nH\nL\nH\nH\nCID3\nBA0\nBA1\nBG0\nBG1\nBG2\nCID0\nCID1\nCID2/\nDDPID\n7,20,21,23, \n24\nRFU\nRFU\nL\nH\nH\nH\nL\nL\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        136.9967041015625,
+        523.4649047851562,
+        147.91671752929688
+      ],
+      "text": "Self Refresh Entry\nSRE\nL\nH\nH\nH\nL\nH\nV\nV\nV\nV\nH\nL\nV\nV\nV\n9",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        148.9967041015625,
+        523.4649047851562,
+        167.91671752929688
+      ],
+      "text": "Self Refresh Entry w/\nFrequency Change\nSREF\nL\nH\nH\nH\nL\nH\nV\nV\nV\nV\nL\nL\nV\nV\nV\n9",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        168.99652099609375,
+        529.152587890625,
+        179.91653442382812
+      ],
+      "text": "Power Down Entry\nPDE\nL\nH\nH\nH\nL\nH\nV\nV\nV\nV\nV\nH\nODT=L\nV\nV\n10,16",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        181.7432098388672,
+        537.6280517578125,
+        195.93321228027344
+      ],
+      "text": "MPC\nMPC\nL\nH\nH\nH\nH\nL\nOP0\nOP1\nOP2\nOP3\nOP4\nOP5\nOP6\nOP7\nV/\nDDPID 20,22,23,24",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        196.99639892578125,
+        495.0175476074219,
+        207.91641235351562
+      ],
+      "text": "NOP\nNOP\nL\nH\nH\nH\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        208.99639892578125,
+        495.0175476074219,
+        219.91641235351562
+      ],
+      "text": "Power Down Exit\nPDX\nL\nH\nH\nH\nH\nH\nV\nV\nV\nV\nV\nV\nV\nV\nV",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        72.98729705810547,
+        220.99627685546875,
+        495.02740478515625,
+        231.91629028320312
+      ],
+      "text": "Deselect\nDES\nH\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        73.98728942871094,
+        235.36959838867188,
+        538.6785278320312,
+        574.8833618164062
+      ],
+      "text": "NOTE 1\nV means H or L (a defined logic level). X means don't care in which case the signal may be floated.\nNOTE 2\nBank group addresses BG[2:0] and Bank addresses BA[1:0] determine which bank is to be operated upon in a specific bank group.\nNOTE 3\nThe Refresh All and Refresh Management All commands are applied to all banks in all bank groups. CA6 and CA7 are required to be valid (“V”)\nNOTE 4\nThe Refresh Same Bank and Refresh Management Same Bank commands refresh the same bank in all bank group bits. The bank bits, BA0 and BA1 on \nCA6 and CA7, respectively, specify the bank within each bank group.\nNOTE 5\nThe Precharge All command applies to all open banks in all bank groups.\nNOTE 6\nThe Precharge Same Bank command applies to the same bank in all bank groups. The bank bits specify the bank within each bank group.\nNOTE 7\nThe Precharge command applies to a single bank as specified by bank address and bank group bits. \nNOTE 8\nCS_n=LOW during the 2nd cycle of a two cycle command controls ODT in non-target ranks for WR, RD and MRR commands. \nNOTE 9\nThe SRE command places the DRAM in self refresh state\nNOTE 10\nThe PDE command places the DRAM in power down state\nNOTE 11\nTwo cycle commands with no ODT control (ACT, MRW, WRP). DRAM does not execute the command if it receives CS as LOW on 2nd cycle. \nNOTE 12\nWR command with WR_partial = Low indicates a partial write command. This is to help DRAM start an internal read for 'read modify write'.\nNOTE 13\nIf CW=Low during the MRW command then DRAM should execute the command, Mode Register will be written. If CW=HIGH then DRAM ignores the \nMRW command, and the Mode Register is not changed. During MRR commands the DRAM ignores the value of the CW bit, MRR will be executed if \nCW=Low or CW=High.\nNOTE 14\nCID[3:0] bits are used for 3DS stacking support.\nNOTE 15\nIf CA5:BL*=L, the command places the DRAM into the alternate Burst mode described by MR0[1:0] instead of the default Burst Length 16 mode.\nNOTE 16\nODT=L is defined to allow On Die Termination (ODT) to persist when the device is in Power Down Mode. \nNOTE 17\nCID3/R17 is a multi-mode pin allowing for either 16H 3DS stacking with the CID3 bit usage or R17 for high bit density monolithic usage. These usages \nare mutually exclusive. \nNOTE 18\nWrite Pattern only supports BL16 and BL32. \nNOTE 19\nWhen CID3 is not used, its CA decode is VALID.\nNOTE 20\nIn the case of a DRAM where the density or stacking doesn't require CA[13] the ball location for that function (considering the state of MIR) shall be \nconnected to VDDQ, and the DRAM shall decode CA[13]=L so that the proper selection of die and RA is provided.\nNOTE 21\nCID2/DDPID is a multi-mode pin allowing for either 3DS stacking with CID2 or DDP packaging with DDPID. Use of 3DS and DDP are mutually \nexclusive.\nNOTE 22\nV/DDPID is a multi-mode pin where the DDPID is used for DDP packages only.\nNOTE 23\nAny command using DDPID shall issue a NOP to non-selected device.\nNOTE 24\nNT-ODT behavior is not influenced by DDPIP value\nNOTE 25\nCA[0:1] =[L:L] on the second cycle for burst ordering. \nNOTE 26\nWhen host issue MRR with CRC enabled, data comes out with CRC bit. \nNOTE 27\nIf the Refresh Management Required bit is “0” (MR58 OP[0]=0), CA9 is only required to be valid (“V”).\nNOTE 28\nIf the Refresh Interval Rate indicator bit is disabled (MR4:OP[3]=0), CA8 is only required to be valid (“V”). If the Refresh Interval Rate indicator bit is \nenabled (MR4:OP[3]=1), the host will set CA8=H for REF commands issued at the 1x refresh interval rate and CA8=L for REF commands issued at the \n2x refresh interval rate.",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        199.68170166015625,
+        67.70101928710938,
+        411.9156494140625,
+        82.92501831054688
+      ],
+      "text": "Table 241 — Command Truth Table (Cont’d)",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        98.78630065917969,
+        91.6475830078125,
+        208.35238647460938,
+        106.23957824707031
+      ],
+      "text": "Function \nAbbrevia-\ntion\nCS_n",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        345.3634948730469,
+        89.6475830078125,
+        368.1388854980469,
+        98.23957824707031
+      ],
+      "text": "CA Pins",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 3,
+      "type": "text",
+      "bbox": [
+        214.4967041015625,
+        94.6475830078125,
+        532.0289916992188,
+        108.23951721191406
+      ],
+      "text": "NOTES\nCA0\nCA1\nCA2\nCA3\nCA4\nCA5\nCA6\nCA7\nCA8\nCA9\nCA10\nCA11\nCA12\nCA13",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        32.250389099121094,
+        189.143310546875,
+        57.900390625
+      ],
+      "text": "JEDEC Standard No. 79-5\nPage 114",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        67.50358581542969,
+        192.6556854248047,
+        83.88358306884766
+      ],
+      "text": "4.7\nRead Operation",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        85.87689208984375,
+        540.078369140625,
+        165.70396423339844
+      ],
+      "text": "The Read Operation causes the DRAM to retrieve and output data stored in its array. The Read Operation \nis initiated by the Read Command during which the beginning column address and bank/group address for \nthe data to be retrieved from the array is provided. The data is driven by the DRAM on its DQ pins RL \n(CL) cycles after the Read Command along with the proper waveform on the DQS inputs. Read Latency \n(RL or CL) is defined from the Read command to data and is not affected by the Read DQS offset timing \n(MR40 OP[2:0]).",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        175.5032196044922,
+        534.5652465820312,
+        219.69541931152344
+      ],
+      "text": "4.7.1   Read Burst Operation \nDuring a READ or WRITE command, DDR5 shall support BC8, BL16, BL32 (optional) and BL32 OTF \n(optional) during the READ or WRITE. MR0[1:0] is used to select burst operation mode.",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        400.74609375,
+        412.6153564453125,
+        444.67401123046875
+      ],
+      "text": "NOTE 1\nBL=16, Preamble = 2tCK - 0010 Pattern Preamble, 1.5tCK Postamble\nNOTE 2\nDES commands are shown for ease of illustration; other commands may be valid at these times.\nNOTE 3\nIn this example, Read DQS Offset Timing is set to 0 Clocks.\nFigure 27 — Read Burst Operation (BL16)",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        642.0313110351562,
+        471.1721496582031,
+        682.8073120117188
+      ],
+      "text": "NOTE 1\nBC=8, Preamble = 2tCK - 0010 Pattern Preamble, 1.5tCK Postamble\nNOTE 2\nDES commands are shown for ease of illustration; other commands may be valid at these times.\nNOTE 3\nIn this example, Read DQS Offset Timing is set to 0 Clocks\nNOTE 4\nIn non-CRC mode, DQS_t and DQS_c stop toggling at the completion of the BC8 data bursts, plus the postamble.",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        207.8240966796875,
+        689.7350463867188,
+        404.1399841308594,
+        704.9590454101562
+      ],
+      "text": "Figure 28 — Read Burst Operation (BC8)",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.95449829101562,
+        275.1500549316406,
+        111.90756225585938,
+        281.3076477050781
+      ],
+      "text": "CA[13:0]",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.95449829101562,
+        303.8075256347656,
+        101.95687866210938,
+        309.9651184082031
+      ],
+      "text": "CMD",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.95449829101562,
+        347.96368408203125,
+        107.74872589111328,
+        359.5522766113281
+      ],
+      "text": "DQS_t\nDQS_c",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.78824615478516,
+        368.4684753417969,
+        112.38417053222656,
+        374.6260681152344
+      ],
+      "text": "DQ[15:0]",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.95449829101562,
+        249.13172912597656,
+        103.33002471923828,
+        262.6784362792969
+      ],
+      "text": "CK_t,\nCK_c",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        123.20870208740234,
+        245.48699951171875,
+        505.6058044433594,
+        251.8803253173828
+      ],
+      "text": "t0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 ta+7\nta+8\nta+9\nta+10\ntb+5\ntb+7\ntb+10 tb+11",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        297.55810546875,
+        358.7157287597656,
+        370.10443115234375,
+        365.79608154296875
+      ],
+      "text": "tRPRE\ntRPST",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        320.6932067871094,
+        369.4276123046875,
+        360.0304870605469,
+        372.47711181640625
+      ],
+      "text": "D0\nD1\nD2\nD14 D15\nD13",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        260.2596130371094,
+        245.48699951171875,
+        519.3089599609375,
+        251.43748474121094
+      ],
+      "text": "ta+5\ntb+12\ntb\ntb+1\ntb+2\ntb+3\ntb+8\ntb+9\ntb+4\ntb+6",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        124.95880126953125,
+        302.9477844238281,
+        139.68472290039062,
+        308.6951904296875
+      ],
+      "text": "Read",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.79170227050781,
+        321.47113037109375,
+        103.14013671875,
+        327.62872314453125
+      ],
+      "text": "CS_n",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        225.4259033203125,
+        387.14581298828125,
+        239.9732208251953,
+        391.4450378417969
+      ],
+      "text": "RL=CL",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        216.24819946289062,
+        303.2310791015625,
+        284.232421875,
+        309.32061767578125
+      ],
+      "text": "DES\nDES\nDES\nDES\nDES",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        119.22947692871094,
+        274.9421081542969,
+        144.8521728515625,
+        282.5335998535156
+      ],
+      "text": "CA,\nBL,AP\nBA,BG",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        147.04859924316406,
+        303.1020812988281,
+        533.410888671875,
+        309.32061767578125
+      ],
+      "text": "DES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.95449829101562,
+        512.9107666015625,
+        111.90756225585938,
+        519.068359375
+      ],
+      "text": "CA[13:0]",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.95449829101562,
+        541.5682373046875,
+        101.95687866210938,
+        547.725830078125
+      ],
+      "text": "CMD",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.95449829101562,
+        585.7244262695312,
+        107.74872589111328,
+        597.31298828125
+      ],
+      "text": "DQS_t\nDQS_c",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.78824615478516,
+        606.229248046875,
+        112.38417053222656,
+        612.3868408203125
+      ],
+      "text": "DQ[15:0]",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.95449829101562,
+        486.8925476074219,
+        103.33002471923828,
+        500.43927001953125
+      ],
+      "text": "CK_t,\nCK_c",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        123.20870208740234,
+        483.2479248046875,
+        503.43988037109375,
+        489.6409912109375
+      ],
+      "text": "t0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 ta+7\nta+8\nta+9\nta+10\nta+16\ntb+1\ntb+4\ntb+5",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        297.55810546875,
+        596.4765014648438,
+        383.78802490234375,
+        603.556884765625
+      ],
+      "text": "tRPRE\ntRPST",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        320.6932067871094,
+        607.1884155273438,
+        372.9956359863281,
+        610.2379150390625
+      ],
+      "text": "D0\nD1\nD2\nD6\nD7\nD3",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        260.2596130371094,
+        483.2479248046875,
+        517.1351928710938,
+        489.6409912109375
+      ],
+      "text": "ta+5\ntb+6\nta+11 ta+12 ta+13 ta+14\ntb+2\ntb+3\nta+15\ntb",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        124.95880126953125,
+        540.7086181640625,
+        139.68472290039062,
+        546.4559936523438
+      ],
+      "text": "Read",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        87.79170227050781,
+        559.23193359375,
+        103.14013671875,
+        565.3895263671875
+      ],
+      "text": "CS_n",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        225.4259033203125,
+        624.9066162109375,
+        239.9732208251953,
+        629.2058715820312
+      ],
+      "text": "RL=CL",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        216.24819946289062,
+        540.9918823242188,
+        284.232421875,
+        547.0814208984375
+      ],
+      "text": "DES\nDES\nDES\nDES\nDES",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        119.22947692871094,
+        512.702880859375,
+        144.8521728515625,
+        520.2943725585938
+      ],
+      "text": "CA,\nBL,AP\nBA,BG",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        147.04859924316406,
+        540.8629760742188,
+        533.410888671875,
+        547.0814208984375
+      ],
+      "text": "DES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 4,
+      "type": "text",
+      "bbox": [
+        348.47100830078125,
+        607.1884155273438,
+        359.3129577636719,
+        610.2379150390625
+      ],
+      "text": "D4\nD5",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        422.78070068359375,
+        32.250389099121094,
+        540.1796875,
+        57.900390625
+      ],
+      "text": "JEDEC Standard No. 79-5\nPage 115",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        71.99072265625,
+        68.2503890991211,
+        251.42071533203125,
+        81.900390625
+      ],
+      "text": "4.7.1   Read Burst Operation (Cont’d)",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        355.2104797363281,
+        540.0496826171875,
+        421.1382141113281
+      ],
+      "text": "NOTE 1\nBL=16, Preamble = 2tCK - 0010 Pattern Preamble, 1.5tCK Postamble\nNOTE 2\nDES commands are shown for ease of illustration; other commands may be valid at these times.\nNOTE 3\nTwo different examples are shown side by side, the top with the default setting for Read DQS Offset = 0 Clock, the lower with a 1 Clock \nsetting. In the lower case, the DQS is started 1 clock earlier than normal with respect to RL (CL).\nNOTE 4\nIn both cases, the Data does not move\nFigure 29 — Read to Read, Different Ranks Operation with Read DQS Offset Usage (BL16)",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        430.716796875,
+        540.0794067382812,
+        537.9330444335938
+      ],
+      "text": "4.7.2   Burst Read Operation Followed by a Precharge\nThe minimum external Read command to Precharge command spacing to the same bank is equal to tRTP \nwith tRTP being the Internal Read Command to Precharge Command Delay. Note that the minimum ACT \nto PRE timing, tRAS, must be satisfied as well. The minimum value for the Internal Read Command to \nPrecharge Command Delay is given by tRTP.min. A new bank active command may be issued to the same \nbank if the following two conditions are satisfied simultaneously:\n1\nThe minimum RAS precharge time (tRP.MIN) has been satisfied from the clock at which the precharge begins.\n2\nThe minimum RAS cycle time (tRC.MIN) from the previous bank activation has been satisfied.",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        71.98729705810547,
+        540.0896606445312,
+        475.47833251953125,
+        554.9066772460938
+      ],
+      "text": "Examples of Read commands followed by Precharge are shown in Figure 30 and Figure 31.",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        77.53910064697266,
+        100.6101303100586,
+        92.5759506225586,
+        114.15682983398438
+      ],
+      "text": "CK_c\nCK_t",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        119.63510131835938,
+        96.96566772460938,
+        528.22265625,
+        103.3587646484375
+      ],
+      "text": "t0\nt2\nt1\nt3\nt4\nta\nta+1\nta+2\nta+3\nta+4\nta+6 tb\ntb+1\ntb+2\ntb+3\ntd+2\nte\nte+3\nte+4\nta+5\nte+5\ntc\ntc+1\ntc+2\ntd\nte+1\nte+2\ntd+1\ntd+3\ntc+3",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        187.58470153808594,
+        124.99943542480469,
+        210.2508087158203,
+        130.746826171875
+      ],
+      "text": "READ-1",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        155.52879333496094,
+        111.67341613769531,
+        318.6617431640625,
+        119.14720153808594
+      ],
+      "text": "RL\nRL",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        77.53910064697266,
+        124.51139831542969,
+        516.2603149414062,
+        131.79525756835938
+      ],
+      "text": "READ-0\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES\nDES DES\nDES\nDES\nDES\nDES\nCMD",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        78.09410095214844,
+        147.4379425048828,
+        97.8883285522461,
+        160.92306518554688
+      ],
+      "text": "DQS_c\nDQS_t",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        77.86627197265625,
+        191.0275421142578,
+        108.37103271484375,
+        197.18515014648438
+      ],
+      "text": "Rank 0 DQ",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        77.86627197265625,
+        215.20228576660156,
+        108.37103271484375,
+        221.35989379882812
+      ],
+      "text": "Rank 1 DQ",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        428.5414123535156,
+        212.5417938232422,
+        481.6822204589844,
+        215.58859252929688
+      ],
+      "text": "D0\nD1\nD2 D11 D12 D13 D14 D15",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        294.0530090332031,
+        144.62220764160156,
+        491.2178039550781,
+        152.08746337890625
+      ],
+      "text": "tRPRE\ntRPST\ntRPRE\ntRPST",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        184.45599365234375,
+        195.0024871826172,
+        474.1156921386719,
+        200.7498779296875
+      ],
+      "text": "RTT_PARK\nRTT_NOM_RD",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        184.662353515625,
+        219.4861297607422,
+        459.3221435546875,
+        225.2335205078125
+      ],
+      "text": "RTT_NOM_RD\nRTT_PARK\nRTT_OFF",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        212.61590576171875,
+        137.93167114257812,
+        375.39337158203125,
+        146.40390014648438
+      ],
+      "text": "Matched - Read DQS Offset Timing set to 0 Clock",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        213.15200805664062,
+        246.61746215820312,
+        385.32965087890625,
+        255.08969116210938
+      ],
+      "text": "Unmatched - Read DQS Offset Timing set to 1 Clock",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        78.09410095214844,
+        262.5404357910156,
+        463.57989501953125,
+        278.8537292480469
+      ],
+      "text": "tRPRE\ntRPST\nt RPRE\ntRPST\nDQS_c\nDQS_t",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        77.86627197265625,
+        307.5050354003906,
+        108.37103271484375,
+        313.6626281738281
+      ],
+      "text": "Rank 0 DQ",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        77.86627197265625,
+        331.42730712890625,
+        108.37103271484375,
+        337.58489990234375
+      ],
+      "text": "Rank 1 DQ",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        303.3440856933594,
+        256.1698913574219,
+        312.63568115234375,
+        260.15765380859375
+      ],
+      "text": "Early",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        317.906494140625,
+        195.7032928466797,
+        345.61572265625,
+        201.45068359375
+      ],
+      "text": "RTT_OFF",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        317.8185119628906,
+        188.10971069335938,
+        357.0065002441406,
+        191.1534423828125
+      ],
+      "text": "D0\nD1\nD2\nD14 D15\nD13",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        303.60302734375,
+        195.84898376464844,
+        305.5678405761719,
+        200.3005828857422
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        366.2387390136719,
+        196.1354217529297,
+        368.20355224609375,
+        200.58702087402344
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        303.56292724609375,
+        220.20372009277344,
+        305.5277404785156,
+        224.6553192138672
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        414.70123291015625,
+        195.9310760498047,
+        416.8292541503906,
+        224.81748962402344
+      ],
+      "text": "trans\ntrans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        366.11651611328125,
+        220.3658905029297,
+        368.0813293457031,
+        224.81748962402344
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        490.6131286621094,
+        195.76890563964844,
+        492.57794189453125,
+        224.81748962402344
+      ],
+      "text": "trans\ntrans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        428.62640380859375,
+        329.03387451171875,
+        481.721923828125,
+        332.0794372558594
+      ],
+      "text": "D0\nD1\nD2 D11 D12 D13 D14 D15",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        184.45599365234375,
+        311.4925842285156,
+        474.1156921386719,
+        317.239990234375
+      ],
+      "text": "RTT_PARK\nRTT_NOM_RD",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        184.662353515625,
+        335.97808837890625,
+        459.3221435546875,
+        341.7254943847656
+      ],
+      "text": "RTT_NOM_RD\nRTT_PARK\nRTT_OFF",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        317.906494140625,
+        312.19439697265625,
+        345.61572265625,
+        317.9418029785156
+      ],
+      "text": "RTT_OFF",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        317.9425964355469,
+        304.601318359375,
+        357.10821533203125,
+        307.64410400390625
+      ],
+      "text": "D0\nD1\nD2\nD14 D15\nD13",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        303.60302734375,
+        312.33929443359375,
+        305.5678405761719,
+        316.79083251953125
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        366.2387390136719,
+        312.6265869140625,
+        368.20355224609375,
+        317.078125
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        303.56292724609375,
+        336.69378662109375,
+        305.5277404785156,
+        341.14532470703125
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        414.70123291015625,
+        312.4212646484375,
+        416.8292541503906,
+        341.3076171875
+      ],
+      "text": "trans\ntrans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        366.11651611328125,
+        336.8560791015625,
+        368.0813293457031,
+        341.3076171875
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        490.6131286621094,
+        312.26007080078125,
+        492.57794189453125,
+        341.3076171875
+      ],
+      "text": "trans\ntrans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        376.27099609375,
+        312.2255859375,
+        408.4321594238281,
+        317.9729919433594
+      ],
+      "text": "RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        376.27099609375,
+        336.1727294921875,
+        408.4321594238281,
+        341.9201354980469
+      ],
+      "text": "RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        376.27099609375,
+        220.3531951904297,
+        408.4321594238281,
+        226.1005859375
+      ],
+      "text": "RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        376.27099609375,
+        195.4297332763672,
+        529.626708984375,
+        201.1771240234375
+      ],
+      "text": "RTT_PARK\nRTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        496.9784240722656,
+        219.8650360107422,
+        529.1395874023438,
+        225.6124267578125
+      ],
+      "text": "RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        497.2247314453125,
+        311.9842224121094,
+        529.3859252929688,
+        317.73162841796875
+      ],
+      "text": "RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        496.9784240722656,
+        336.4195251464844,
+        529.1395874023438,
+        342.16693115234375
+      ],
+      "text": "RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        281.08172607421875,
+        162.06431579589844,
+        283.0465393066406,
+        166.5159149169922
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        185.4333953857422,
+        161.25071716308594,
+        234.3616943359375,
+        166.99810791015625
+      ],
+      "text": "DQS_RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        391.2798156738281,
+        170.73863220214844,
+        393.24462890625,
+        175.1902313232422
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        185.1616973876953,
+        169.9316864013672,
+        234.08999633789062,
+        175.6790771484375
+      ],
+      "text": "DQS_RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        504.19403076171875,
+        170.19248962402344,
+        506.1588439941406,
+        174.6440887451172
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        376.8348388671875,
+        162.2607879638672,
+        378.7996520996094,
+        166.71238708496094
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        307.0035095214844,
+        161.09031677246094,
+        351.4798889160156,
+        166.83770751953125
+      ],
+      "text": "DQS_RTT_OFF",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        429.82470703125,
+        170.71153259277344,
+        474.30108642578125,
+        176.45892333984375
+      ],
+      "text": "DQS_RTT_OFF",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        262.0517272949219,
+        280.2026672363281,
+        264.01654052734375,
+        284.6542053222656
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        166.40289306640625,
+        280.36669921875,
+        215.33119201660156,
+        286.1141052246094
+      ],
+      "text": "DQS_RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        372.24884033203125,
+        288.8769836425781,
+        374.2136535644531,
+        293.3285217285156
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        166.13079833984375,
+        288.0704040527344,
+        215.05909729003906,
+        293.81781005859375
+      ],
+      "text": "DQS_RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        485.1640319824219,
+        288.33056640625,
+        487.12884521484375,
+        292.7821044921875
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        357.8038330078125,
+        280.3990783691406,
+        359.7686462402344,
+        284.8506164550781
+      ],
+      "text": "trans",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        287.9735107421875,
+        279.2279968261719,
+        332.44989013671875,
+        284.97540283203125
+      ],
+      "text": "DQS_RTT_OFF",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        77.53910064697266,
+        279.42974853515625,
+        455.27008056640625,
+        294.71905517578125
+      ],
+      "text": "DQS_RTT_OFF\nRank 0 DQS\nRank 1 DQS",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        77.43260192871094,
+        161.04701232910156,
+        112.0506362915039,
+        176.33633422851562
+      ],
+      "text": "Rank 0 DQS\nRank 1 DQS",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        429.82379150390625,
+        161.99900817871094,
+        478.7521057128906,
+        167.74639892578125
+      ],
+      "text": "DQS_RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    },
+    {
+      "page_no": 5,
+      "type": "text",
+      "bbox": [
+        410.46429443359375,
+        279.7444152832031,
+        459.3926086425781,
+        285.4918212890625
+      ],
+      "text": "DQS_RTT_PARK",
+      "meta": {
+        "score": 0.5,
+        "model": "layoutparser"
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "schema_version": "review-0.1.0",
+    "generated_at": "2025-11-13T06:34:40Z",
+    "run_id": "run_20251113T063322Z",
+    "source_pdf": "C:\\Users\\admin\\VAI_PLAN\\data\\raw\\test_img_table.pdf"
+  },
+  "summary": {
+    "total_requirements": 7
+  },
+  "requirements": [
+    {
+      "id": "REQ-0001",
+      "title": "DDR5 Specification Summary",
+      "description": "This specification covers the JEDEC Standard No. 79-5 for DDR5 SDRAM, detailing simplified state diagrams and command truth tables. Key points include a light grey text indicating TBD content, a state diagram outlining various operational states such as training, leveling, and write operations, and a comprehensive command truth table that categorizes commands based on their cycle time and address parameters.",
+      "confidence": 0.7,
+      "source_pages": [
+        "JEDEC Standard No. 79-5, Page 8",
+        "JEDEC Standard No. 79-5, Page 103"
+      ],
+      "evidence": {
+        "start_page": 1,
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0002",
+      "title": "e",
+      "description": "{\n  \"title\": \"DDR5 Command and Control Signals\",\n  \"description\": \"This specification covers various command and control signals for DDR5 memory operations including Mode Register Write (MRW), Mode Register Read (MRR), Write (WR) and Read (RD) commands, VrefCA and VrefCS commands, refresh operations (REFab, RFMab, REFsb, RFMsb), precharge operations (PREab, PREsb), and JEDEC standard compliance.\",\n  \"source_pages\": [\"104\"],\n  \"confidence\": \"High\"\n}\n```\n\nThis JSON summary captures the key points from the provided DDR5 specification excerpt, focusing on the commands and control signals involved in memory operations.",
+      "confidence": 0.7,
+      "source_pages": null,
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0003",
+      "title": "DDR5 Precharge and Self-Refresh Commands",
+      "description": "This specification covers the timing and command sequences for precharging banks in DDR5 memory. It includes commands such as PREpb, PREsb, and PREab for precharging different bank groups. Additionally, it outlines self-refresh entry (SRE) and exit (PDX), frequency change during self-refresh (SREF), power down entry (PDE), and power management commands (MPC).",
+      "confidence": 0.7,
+      "source_pages": [
+        "CID3 Page 104",
+        "CID2/DDPID Pages 7-9, 16"
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0004",
+      "title": "DDR5 Command and Control Signal Specifications",
+      "description": "This specification covers various command and control signals in DDR5 memory, including power down exit (PDX), deselect (DES), and specific conditions for commands like Refresh All, Precharge All, and Write Pattern. It also details the use of CID3/R17 and DDPID pins, and the behavior of ODT during power down mode.",
+      "confidence": 0.7,
+      "source_pages": [
+        "Page Unknown"
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0005",
+      "title": "terval Rate indicator bit is ",
+      "description": "{\n  \"title\": \"DDR5 Command and Data Timing Specifications\",\n  \"description\": \"This specification covers the timing of REF commands at different refresh interval rates, read operations with burst lengths (BL16, BL32), and data output synchronization. It specifies that CA8=H for 1x refresh rate and CA8=L for 2x refresh rate when terval Rate indicator bit is enabled. The Read Operation involves providing the beginning column address and bank/group address to retrieve data from the array, with data driven on DQ pins RL cycles after the command. Burst lengths (BL16, BL32) are supported during read or write commands, with specific preamble and postamble patterns defined.\",\n  \"source_pages\": [\"Page 114\"],\n  \"confidence\": \"High\"\n}\n```\n\nThis JSON object summarizes the key points from the provided DDR5 specification excerpt, focusing on the verification intent for detailed validation.",
+      "confidence": 0.7,
+      "source_pages": null,
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0006",
+      "title": "mble.",
+      "description": "{\n  \"title\": \"DDR5 Read Burst Operation\",\n  \"description\": \"Describes the read burst operation for DDR5 with a burst length (BL) of 16, including timing details such as preamble and postamble. It also illustrates two scenarios: one with default settings and another where the Read DQS Offset is set to 1 clock earlier than normal. The description includes timing diagrams that show data transfer sequences during read operations.\",\n  \"source_pages\": [\n    {\n      \"page_number\": 115,\n      \"jedec_standard\": \"JEDEC Standard No. 79-5\"\n    }\n  ],\n  \"confidence\": \"High\"\n}\n```\n\nThis JSON object captures the key points from the provided DDR5 specification excerpt, focusing on the read burst operation and its timing details. The confidence level is set to high based on the clear and specific nature of the information provided in the text.",
+      "confidence": 0.7,
+      "source_pages": null,
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "REQ-0007",
+      "title": "DDR5 Precharge Timing and Command Sequence",
+      "description": "This specification excerpt describes the timing requirements for precharge operations in DDR5 memory. It specifies that a minimum RAS cycle time (tRC.MIN) must be satisfied before initiating a precharge command following a read operation. The excerpt also provides examples of read commands followed by precharge, detailing specific timing intervals and DQS offsets.",
+      "confidence": 0.7,
+      "source_pages": [
+        "Page unknown"
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      }
+    }
+  ],
+  "chunks_overview": {
+    "count": 60,
+    "sample": [
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 1,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 2,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 2,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 2,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 2,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 2,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 2,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      },
+      {
+        "type": "text",
+        "page": 3,
+        "id": null
+      }
+    ]
+  }
+}

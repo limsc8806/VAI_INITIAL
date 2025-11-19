@@ -1,0 +1,301 @@
+{
+  "items": [
+    {
+      "id": "REQ-0001",
+      "title": "JEDEC Standard No. 79-5",
+      "description": "{\n  \"title\": \"DDR5 Specification Summary\",\n  \"description\": \"This specification covers the JEDEC Standard No. 79-5 for DDR5 SDRAM, detailing the command truth table and state diagrams for various operations including activation (ACT), write patterns (WRP, WRPA), and calibration functions such as VrefC and ZQ calibration. The document also notes that certain sections are marked as TBD due to pending review.\",\n  \"source_pages\": [\"JEDEC Standard No. 79-5, Page 8\", \"JEDEC Standard No. 79-5, Page 103\"],\n  \"confidence\": \"High\"\n}\n```\n\nThis JSON object summarizes the key points from the provided DDR5 specification excerpt, focusing on the verification intent and keeping the description concise as requested.",
+      "source_pages": [
+        1
+      ],
+      "evidence": {
+        "start_page": 1,
+        "kinds": [
+          "text"
+        ]
+      },
+      "confidence": 0.7,
+      "commands": [
+        {
+          "name": "WR"
+        },
+        {
+          "name": "ZQ"
+        },
+        {
+          "name": "MRW"
+        },
+        {
+          "name": "RD"
+        },
+        {
+          "name": "ACT"
+        }
+      ],
+      "tags": [],
+      "dependencies": [],
+      "validation_status": "",
+      "notes": "",
+      "compatibility_matrix": {
+        "description": "Auto-inferred command transitions",
+        "matrix": {
+          "WR": {
+            "ZQ": "Y",
+            "RD": "Y",
+            "MRW": "Y"
+          },
+          "ZQ": {
+            "MRW": "Y",
+            "ACT": "Y"
+          },
+          "MRW": {
+            "RD": "Y",
+            "MRR": "Y",
+            "WR": "Y"
+          },
+          "RD": {
+            "WR": "Y",
+            "REFab": "Y",
+            "MRR": "Y"
+          },
+          "MRR": {
+            "WR": "Y",
+            "SRE": "Y",
+            "NOP": "Y",
+            "REF": "Y"
+          },
+          "REFab": {
+            "REFsb": "Y"
+          },
+          "SRE": {
+            "PDE": "Y"
+          },
+          "PDE": {
+            "MPC": "Y",
+            "ACT": "Y"
+          },
+          "MPC": {
+            "NOP": "Y"
+          },
+          "NOP": {
+            "PDX": "Y",
+            "MRR": "Y"
+          },
+          "PDX": {
+            "WR": "Y"
+          },
+          "ACT": {
+            "MRW": "Y",
+            "PRE": "Y"
+          },
+          "REF": {
+            "READ": "Y"
+          },
+          "READ": {
+            "WRITE": "Y"
+          },
+          "WRITE": {
+            "READ": "Y"
+          }
+        },
+        "default": "UNKNOWN"
+      }
+    },
+    {
+      "id": "REQ-0002",
+      "title": "e",
+      "description": "{\n  \"title\": \"DDR5 Command and Control Signals\",\n  \"description\": \"This specification covers various command and control signals for DDR5 memory operations including Mode Register Write (MRW), Mode Register Read (MRR), Write (WR) and Read (RD) commands, as well as Refresh and Precharge operations. The signals are defined by their low (L) or high (H) states and associated data dependency IDs (DDPIDs).\",\n  \"source_pages\": [\"Page 104\"],\n  \"confidence\": \"High\"\n}\n```\n\nThis JSON object summarizes the key points from the provided DDR5 specification excerpt, focusing on the commands and control signals for DDR5 memory operations.",
+      "source_pages": [],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      },
+      "confidence": 0.7,
+      "commands": [
+        {
+          "name": "MRW"
+        },
+        {
+          "name": "MRR"
+        },
+        {
+          "name": "WR"
+        },
+        {
+          "name": "RD"
+        },
+        {
+          "name": "REFab"
+        },
+        {
+          "name": "REFsb"
+        }
+      ],
+      "tags": [],
+      "dependencies": [],
+      "validation_status": "",
+      "notes": "",
+      "compatibility_matrix": {}
+    },
+    {
+      "id": "REQ-0003",
+      "title": "l",
+      "description": "{\n  \"title\": \"DDR5 Precharge and Self-Refresh Commands\",\n  \"description\": \"This specification covers the timing and control signals for precharging banks in DDR5 memory. It also includes commands for self-refresh entry, self-refresh with frequency change, power down entry, and power down exit. The commands are defined by their voltage levels (L for low, H for high) and command identifiers (CID, BA, BG, etc.).\",\n  \"source_pages\": [\"JEDEC Standard No. 79-5\", \"Page 104\"],\n  \"confidence\": \"High\"\n}\n```\n\nThis JSON object summarizes the key points from the provided DDR5 specification excerpt, focusing on the commands and their definitions as described in the text.",
+      "source_pages": [],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      },
+      "confidence": 0.7,
+      "commands": [
+        {
+          "name": "SRE"
+        },
+        {
+          "name": "PDE"
+        },
+        {
+          "name": "MPC"
+        },
+        {
+          "name": "NOP"
+        },
+        {
+          "name": "PDX"
+        }
+      ],
+      "tags": [],
+      "dependencies": [],
+      "validation_status": "",
+      "notes": "",
+      "compatibility_matrix": {}
+    },
+    {
+      "id": "REQ-0004",
+      "title": "DDR5 Command and Signal Specifications",
+      "description": "This specification covers various command operations, signal states, and their interactions in DDR5 memory. Key points include power management (Power Down Exit, Deselect), bank addressing (BG[2:0], BA[1:0]), refresh commands (Refresh All, Refresh Same Bank), precharge commands, ODT control, and specific command behaviors (ACT, MRW, WRP).",
+      "source_pages": [
+        "Page Unknown"
+      ],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      },
+      "confidence": 0.7,
+      "commands": [
+        {
+          "name": "MPC"
+        },
+        {
+          "name": "NOP"
+        },
+        {
+          "name": "PDX"
+        },
+        {
+          "name": "WR"
+        },
+        {
+          "name": "RD"
+        },
+        {
+          "name": "MRR"
+        },
+        {
+          "name": "SRE"
+        },
+        {
+          "name": "PDE"
+        },
+        {
+          "name": "ACT"
+        },
+        {
+          "name": "MRW"
+        }
+      ],
+      "tags": [],
+      "dependencies": [],
+      "validation_status": "",
+      "notes": "",
+      "compatibility_matrix": {}
+    },
+    {
+      "id": "REQ-0005",
+      "title": "terval Rate indicator bit is ",
+      "description": "{\n  \"title\": \"DDR5 Command and Data Handling\",\n  \"description\": \"This specification covers the handling of REF commands at different refresh interval rates, read operations with specified burst lengths (BL16, BL32), and the behavior of DQS signals during read bursts. It also specifies how CA8 is used to indicate the refresh interval rate for REF commands.\",\n  \"source_pages\": [\"Page 114\"],\n  \"confidence\": \"High\"\n}\n```\n\nThis JSON object summarizes the key points from the provided DDR5 specification excerpt, focusing on the verification intent and keeping the description concise.",
+      "source_pages": [],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      },
+      "confidence": 0.7,
+      "commands": [
+        {
+          "name": "REF"
+        },
+        {
+          "name": "READ"
+        },
+        {
+          "name": "WRITE"
+        }
+      ],
+      "tags": [],
+      "dependencies": [],
+      "validation_status": "",
+      "notes": "",
+      "compatibility_matrix": {}
+    },
+    {
+      "id": "REQ-0006",
+      "title": "mble.",
+      "description": "{\n  \"title\": \"DDR5 Read Burst Operation\",\n  \"description\": \"Describes the read burst operation for DDR5 with a burst length (BL) of 16, including the timing details such as preamble and postamble. It also illustrates two scenarios: one with default settings and another with an adjusted DQS offset by 1 clock cycle. The description includes notes on valid commands during these timings and the impact of different read DQS offsets.\",\n  \"source_pages\": [\"JEDEC Standard No. 79-5, Page 115\"],\n  \"confidence\": \"High\"\n}\n```\n\n```json\n{\n  \"title\": \"DDR5 Read to Read Operation with Different Ranks\",\n  \"description\": \"Details the timing requirements for a read operation followed by another read from different ranks using the Read DQS Offset feature. It specifies that the minimum external command spacing is tRTP and that the ACT to PRE timing (tRAS) must also be satisfied. The description includes conditions under which a new bank active command can be issued.\",\n  \"source_pages\": [\"JEDEC Standard No. 79-5, Page 115\"],\n  \"confidence\": \"High\"\n}\n```\n\n```json\n{\n  \"title\": \"DDR5 Burst Read Followed by Precharge\",\n  \"description\": \"Describes the minimum timing requirements for a read operation followed by a precharge command to the same bank. It specifies that the minimum spacing is tRTP and that both ACT to PRE (tRAS) and Internal Read Command to Precharge Command Delay (tRTP.min) must be satisfied. The description also outlines conditions under which a new bank active command can be issued.\",\n  \"source_pages\": [\"JEDEC Standard No. 79-5, Page 115\"],\n  \"confidence\": \"High\"\n}\n```\n\nThese JSON objects summarize the key points from the provided DDR5 specification excerpt for detailed verification (DV) coverage.",
+      "source_pages": [],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      },
+      "confidence": 0.7,
+      "commands": [
+        {
+          "name": "ACT"
+        },
+        {
+          "name": "PRE"
+        }
+      ],
+      "tags": [],
+      "dependencies": [],
+      "validation_status": "",
+      "notes": "",
+      "compatibility_matrix": {}
+    },
+    {
+      "id": "REQ-0007",
+      "title": "the precharge begins.",
+      "description": "{\n  \"title\": \"DDR5 Precharge Timing and Command Sequence\",\n  \"description\": \"This specification excerpt describes the timing requirements for precharge operations in DDR5 memory. It specifies that a precharge command can only be issued after the minimum RAS cycle time (tRC.MIN) has been satisfied since the previous bank activation. The excerpt also includes examples of read commands followed by precharge, detailing specific timing intervals and data transfer sequences.\",\n  \"source_pages\": [\"Page unknown\"],\n  \"confidence\": \"High\"\n}\n```\n\nThis JSON summary captures the key points from the provided DDR5 specification text, focusing on the verification intent related to precharge operations and command sequences.",
+      "source_pages": [],
+      "evidence": {
+        "kinds": [
+          "text"
+        ]
+      },
+      "confidence": 0.7,
+      "commands": [
+        {
+          "name": "READ"
+        }
+      ],
+      "tags": [],
+      "dependencies": [],
+      "validation_status": "",
+      "notes": "",
+      "compatibility_matrix": {}
+    }
+  ]
+}

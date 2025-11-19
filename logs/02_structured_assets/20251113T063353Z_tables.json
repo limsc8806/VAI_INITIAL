@@ -1,0 +1,5055 @@
+{
+  "items": [
+    {
+      "page_no": 2,
+      "bbox": [
+        70.78963470458984,
+        547.8537445068359,
+        539.8523559570312,
+        58.65106201171875
+      ],
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Function",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Abbrevia \u0002 tion",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "CS_n",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "CA Pins",
+          "rowspan": 1,
+          "colspan": 14
+        },
+        {
+          "row": 0,
+          "col": 17,
+          "text": "NOTES",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "CA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "text": "CA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "text": "CA2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "text": "CA3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 7,
+          "text": "CA4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 8,
+          "text": "CA5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 9,
+          "text": "CA6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 10,
+          "text": "CA7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 11,
+          "text": "CA8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 12,
+          "text": "CA9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 13,
+          "text": "CA10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 14,
+          "text": "CA11",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 15,
+          "text": "CA12",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 16,
+          "text": "CA13",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Activate",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "ACT",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "text": "R0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "text": "R1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 7,
+          "text": "R2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 8,
+          "text": "R3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 11,
+          "text": "BG0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 12,
+          "text": "BG1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 13,
+          "text": "BG2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 16,
+          "text": "CID2/ DDPID  CID3/",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 17,
+          "text": "11,17,20,21, 23,24",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "R4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "text": "R5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "text": "R6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "text": "R7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 7,
+          "text": "R8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 8,
+          "text": "R9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 9,
+          "text": "R10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 10,
+          "text": "R11",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 11,
+          "text": "R12",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 12,
+          "text": "R13  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 13,
+          "text": "R14  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 14,
+          "text": "R15  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 15,
+          "text": "R16  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 16,
+          "text": "R17",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "RFU",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "RFU",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 11,
+          "text": "V  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 16,
+          "text": "V V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "text": "V  H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "text": "V  L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "text": "V  L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 7,
+          "text": "V  H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 8,
+          "text": "V  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 9,
+          "text": "V  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 10,
+          "text": "V  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 13,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 15,
+          "text": "V  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "RFU",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "text": "RFU",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "text": "L  H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "text": "L  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 13,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 7,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 13,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "text": "Write Pattern",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "WRP",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 8,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 11,
+          "text": "BG0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 12,
+          "text": "BG1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 13,
+          "text": "BG2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 16,
+          "text": "CID2/",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 17,
+          "text": "DDPID 11,15,18,19, 20,21,23,24",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 4,
+          "text": "C3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 5,
+          "text": "C4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 6,
+          "text": "C5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 7,
+          "text": "C6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 8,
+          "text": "C7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 9,
+          "text": "C8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 10,
+          "text": "C9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 11,
+          "text": "C10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 13,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 14,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 16,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 0,
+          "text": "Write Pattern w/ Auto  Precharge",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "WRPA",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 8,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 11,
+          "text": "BG0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 12,
+          "text": "BG1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 13,
+          "text": "BG2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 16,
+          "text": "CID2/",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 17,
+          "text": "DDPID 11,15,18,19, 20,21,23,24",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 3,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 4,
+          "text": "C3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 5,
+          "text": "C4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 6,
+          "text": "C5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 7,
+          "text": "C6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 8,
+          "text": "C7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 9,
+          "text": "C8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 10,
+          "text": "C9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 11,
+          "text": "C10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 13,
+          "text": "AP=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 14,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 11,
+          "col": 16,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 0,
+          "text": "RFU",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 1,
+          "text": "RFU",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 13,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 12,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 3,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 4,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 5,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 6,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 7,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 13,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 13,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 0,
+          "text": "Mode Register Write",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 1,
+          "text": "MRW",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 8,
+          "text": "MRA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 9,
+          "text": "MRA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 10,
+          "text": "MRA2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 11,
+          "text": "MRA3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 12,
+          "text": "MRA4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 13,
+          "text": "MRA5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 14,
+          "text": "MRA6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 15,
+          "text": "MRA7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 16,
+          "text": "V/  DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 14,
+          "col": 17,
+          "text": "8,11,13,20,  22,23,24",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 3,
+          "text": "OP0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 4,
+          "text": "OP1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 5,
+          "text": "OP2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 6,
+          "text": "OP3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 7,
+          "text": "OP4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 8,
+          "text": "OP5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 9,
+          "text": "OP6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 10,
+          "text": "OP7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 13,
+          "text": "CW",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 15,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 0,
+          "text": "Mode Register Read",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 1,
+          "text": "MRR",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 8,
+          "text": "MRA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 9,
+          "text": "MRA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 10,
+          "text": "MRA2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 11,
+          "text": "MRA3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 12,
+          "text": "MRA4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 13,
+          "text": "MRA5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 14,
+          "text": "MRA6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 15,
+          "text": "MRA7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 16,
+          "text": "V/  DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 16,
+          "col": 17,
+          "text": "8,13,20,22,  23,24,25,26",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 3,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 5,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 6,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 7,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 13,
+          "text": "CW",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 17,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 0,
+          "text": "Write",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 1,
+          "text": "WR",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 8,
+          "text": "BL*=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 11,
+          "text": "BG0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 12,
+          "text": "BG1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 13,
+          "text": "BG2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 18,
+          "col": 17,
+          "text": "8,12,15,19,  20,21,23,24",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 3,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 4,
+          "text": "C3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 5,
+          "text": "C4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 6,
+          "text": "C5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 7,
+          "text": "C6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 8,
+          "text": "C7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 9,
+          "text": "C8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 10,
+          "text": "C9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 11,
+          "text": "C10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 13,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 14,
+          "text": "WR_  Partial=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 19,
+          "col": 16,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 0,
+          "text": "Write w/Auto Precharge",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 1,
+          "text": "WRA",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 8,
+          "text": "BL*=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 11,
+          "text": "BG0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 12,
+          "text": "BG1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 13,
+          "text": "BG2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 20,
+          "col": 17,
+          "text": "8,12,15,19,  20,21,23,24",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 3,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 4,
+          "text": "C3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 5,
+          "text": "C4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 6,
+          "text": "C5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 7,
+          "text": "C6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 8,
+          "text": "C7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 9,
+          "text": "C8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 10,
+          "text": "C9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 11,
+          "text": "C10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 13,
+          "text": "AP=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 14,
+          "text": "WR_  Partial=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 21,
+          "col": 16,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 0,
+          "text": "Read",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 1,
+          "text": "RD",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 8,
+          "text": "BL*=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 11,
+          "text": "BG0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 12,
+          "text": "BG1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 13,
+          "text": "BG2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 22,
+          "col": 17,
+          "text": "8,15,19,20,",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 17,
+          "text": "21,23,24",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 3,
+          "text": "C2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 4,
+          "text": "C3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 5,
+          "text": "C4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 6,
+          "text": "C5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 7,
+          "text": "C6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 8,
+          "text": "C7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 9,
+          "text": "C8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 10,
+          "text": "C9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 11,
+          "text": "C10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 13,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 23,
+          "col": 16,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 0,
+          "text": "Read w/Auto Precharge",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 1,
+          "text": "RDA",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 4,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 8,
+          "text": "BL*=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 11,
+          "text": "BG0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 12,
+          "text": "BG1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 13,
+          "text": "BG2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 24,
+          "col": 17,
+          "text": "8,15,19,20,  21,23,24",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 3,
+          "text": "C2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 4,
+          "text": "C3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 5,
+          "text": "C4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 6,
+          "text": "C5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 7,
+          "text": "C6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 8,
+          "text": "C7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 9,
+          "text": "C8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 10,
+          "text": "C9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 11,
+          "text": "C10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 13,
+          "text": "AP=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 14,
+          "text": "V  V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 25,
+          "col": 16,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 0,
+          "text": "VrefCA Command",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 1,
+          "text": "VrefCA",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 8,
+          "text": "OP0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 9,
+          "text": "OP1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 10,
+          "text": "OP2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 11,
+          "text": "OP3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 12,
+          "text": "OP4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 13,
+          "text": "OP5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 14,
+          "text": "OP6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 15,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 16,
+          "text": "V/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 26,
+          "col": 17,
+          "text": "22,23,24",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 0,
+          "text": "VrefCS Command",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 1,
+          "text": "VrefCS",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 8,
+          "text": "OP0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 9,
+          "text": "OP1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 10,
+          "text": "OP2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 11,
+          "text": "OP3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 12,
+          "text": "OP4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 13,
+          "text": "OP5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 14,
+          "text": "OP6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 15,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 16,
+          "text": "V/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 27,
+          "col": 17,
+          "text": "22,23,24",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 0,
+          "text": "Refresh All",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 1,
+          "text": "REFab",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 8,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 11,
+          "text": "V or  RIR",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 12,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 13,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 28,
+          "col": 17,
+          "text": "3,21,23,24,  27, 28",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 0,
+          "text": "Refresh Management  All",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 1,
+          "text": "RFMab",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 8,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 12,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 13,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 29,
+          "col": 17,
+          "text": "3,20,21,23,  24",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 0,
+          "text": "Refresh Same Bank",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 1,
+          "text": "REFsb",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 8,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 11,
+          "text": "V or  RIR",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 12,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 13,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 30,
+          "col": 17,
+          "text": "4,20,21,23,  24,27, 28",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 0,
+          "text": "Refresh Management  Same Bank",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 1,
+          "text": "RFMsb",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 8,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 12,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 13,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 31,
+          "col": 17,
+          "text": "4,20,21,23,  24",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 0,
+          "text": "Precharge All",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 1,
+          "text": "PREab",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 8,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 13,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 16,
+          "text": "CID2/",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 16,
+          "text": "DDPID CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 32,
+          "col": 17,
+          "text": "5,20,21,23,  24",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 0,
+          "text": "Precharge Same Bank",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 1,
+          "text": "PREsb",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 8,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 13,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 33,
+          "col": 17,
+          "text": "6,20,21,23,  24",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      "n_rows": 34,
+      "n_cols": 18,
+      "csv_path": null,
+      "caption": null,
+      "id": null
+    },
+    {
+      "page_no": 3,
+      "bbox": [
+        70.90868377685547,
+        703.9888076782227,
+        539.8140869140625,
+        558.3954467773438
+      ],
+      "cells": [
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Precharge",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "PREpb",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 5,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 8,
+          "text": "CID3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 9,
+          "text": "BA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 10,
+          "text": "BA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 11,
+          "text": "BG0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 12,
+          "text": "BG1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 13,
+          "text": "BG2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 14,
+          "text": "CID0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 15,
+          "text": "CID1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 16,
+          "text": "CID2/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 17,
+          "text": "7,20,21,23,  24",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "RFU",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "RFU",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 13,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "Self Refresh Entry",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "SRE",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 12,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 13,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 17,
+          "text": "9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "text": "Self Refresh Entry w/ Frequency Change",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "text": "SREF",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 12,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 13,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 17,
+          "text": "9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "Power Down Entry",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "text": "PDE",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 6,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 13,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 14,
+          "text": "ODT=L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 17,
+          "text": "10,16",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 0,
+          "text": "MPC",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "text": "MPC",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 7,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 8,
+          "text": "OP0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 9,
+          "text": "OP1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 10,
+          "text": "OP2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 11,
+          "text": "OP3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 12,
+          "text": "OP4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 13,
+          "text": "OP5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 14,
+          "text": "OP6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 15,
+          "text": "OP7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 16,
+          "text": "V/ DDPID",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 7,
+          "col": 17,
+          "text": "20,22,23,24",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 0,
+          "text": "NOP",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "NOP",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 13,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 8,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 0,
+          "text": "Power Down Exit",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 1,
+          "text": "PDX",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 2,
+          "text": "L",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 3,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 4,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 5,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 6,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 7,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 8,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 9,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 10,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 11,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 12,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 13,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 14,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 15,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 9,
+          "col": 16,
+          "text": "V",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 0,
+          "text": "Deselect",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "DES",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 2,
+          "text": "H",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 3,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 4,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 5,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 6,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 7,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 8,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 9,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 10,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 11,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 12,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 13,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 14,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 15,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 10,
+          "col": 16,
+          "text": "X",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Function",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Abbrevia \u0002 tion",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "CS_n",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "CA Pins",
+          "rowspan": 1,
+          "colspan": 14
+        },
+        {
+          "row": 0,
+          "col": 17,
+          "text": "NOTES",
+          "rowspan": 2,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "CA0",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 4,
+          "text": "CA1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 5,
+          "text": "CA2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 6,
+          "text": "CA3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 7,
+          "text": "CA4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 8,
+          "text": "CA5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 9,
+          "text": "CA6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 10,
+          "text": "CA7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 11,
+          "text": "CA8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 12,
+          "text": "CA9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 13,
+          "text": "CA10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 14,
+          "text": "CA11",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 15,
+          "text": "CA12",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 16,
+          "text": "CA13",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      "n_rows": 11,
+      "n_cols": 18,
+      "csv_path": null,
+      "caption": null,
+      "id": null
+    }
+  ]
+}
